@@ -1,184 +1,38 @@
-[16:43:23] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[16:43:24] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[16:43:24] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:43:24] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:43:24] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[16:43:24] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:43:24] [main/INFO]: Reloading ResourceManager: Default
-[16:43:24] [Worker-Main-5/INFO]: Loaded 7 recipes
-[16:43:25] [Worker-Main-5/INFO]: Loaded 927 advancements
-[16:43:26] [Server thread/INFO]: Starting minecraft server version 1.16.3
-[16:43:26] [Server thread/INFO]: Loading properties
-[16:43:26] [Server thread/INFO]: Default game type: SURVIVAL
-[16:43:26] [Server thread/INFO]: Generating keypair
-[16:43:26] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:43:26] [Server thread/INFO]: Using default channel type
-[16:43:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:43:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:43:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:43:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:43:26] [Server thread/INFO]: Preparing level "world"
-[16:43:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:43:27] [Server thread/INFO]: Preparing spawn area: 0%
-[16:43:27] [Server thread/INFO]: Preparing spawn area: 0%
-[16:43:27] [Server thread/INFO]: Preparing spawn area: 0%
-[16:43:28] [Server thread/INFO]: Preparing spawn area: 0%
-[16:43:29] [Server thread/INFO]: Time elapsed: 2724 ms
-[16:43:29] [Server thread/INFO]: Done (2.848s)! For help, type "help"
-[16:44:46] [Server thread/INFO]: oruat[/25.99.45.193:63189] logged in with entity id 413 at (120.5, 64.6875, -412.5)
-[16:44:46] [Server thread/INFO]: oruat joined the game
-[16:54:41] [Server thread/INFO]: abihido[/25.95.44.171:52686] logged in with entity id 2151 at (206.65868863105646, 63.0, -397.6819079999117)
-[16:54:41] [Server thread/INFO]: abihido joined the game
-[17:01:36] [Server thread/INFO]: <oruat> duermase
-[17:01:40] [Server thread/INFO]: mmolinaf[/25.100.210.49:57516] logged in with entity id 3415 at (148.41786958805434, 63.0, -305.07049132890245)
-[17:01:40] [Server thread/INFO]: mmolinaf joined the game
-[17:03:40] [Server thread/INFO]: mmolinaf lost connection: Timed out
-[17:03:40] [Server thread/INFO]: mmolinaf left the game
-[17:03:40] [Server thread/WARN]: handleDisconnection() called twice
-[17:04:13] [Server thread/INFO]: mmolinaf[/25.100.210.49:57538] logged in with entity id 4185 at (41.48860786385799, 66.0, -47.270901117700205)
-[17:04:13] [Server thread/INFO]: mmolinaf joined the game
-[17:05:31] [Server thread/WARN]: mmolinaf moved too quickly! -8.715290670653815,0.0,-5.267829082782043
-[17:05:45] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/4813, l='ServerLevel[world]', x=124.06, y=64.00, z=-409.36]
-[17:05:45] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/4813, l='ServerLevel[world]', x=124.06, y=64.00, z=-409.36]
-[17:05:45] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/4813, l='ServerLevel[world]', x=124.06, y=64.00, z=-409.36]
-[17:06:13] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/4902, l='ServerLevel[world]', x=189.50, y=54.00, z=-268.80]
-[17:07:53] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/5325, l='ServerLevel[world]', x=193.04, y=54.00, z=-266.43]
-[17:09:00] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/5655, l='ServerLevel[world]', x=191.75, y=54.00, z=-267.43]
-[17:09:47] [Server thread/INFO]: mmolinaf lost connection: Timed out
-[17:09:47] [Server thread/INFO]: mmolinaf left the game
-[17:09:47] [Server thread/INFO]: mmolinaf[/25.100.210.49:57561] logged in with entity id 5831 at (121.69999998807907, 66.7531999805212, -327.1722362480857)
-[17:09:47] [Server thread/INFO]: mmolinaf joined the game
-[17:10:10] [Server thread/INFO]: <abihido> a dormir
-[17:10:29] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/5947, l='ServerLevel[world]', x=188.78, y=54.00, z=-267.37]
-[17:10:58] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/6112, l='ServerLevel[world]', x=190.52, y=54.00, z=-265.95]
-[17:12:18] [Server thread/WARN]: mmolinaf moved too quickly! -8.982595978187021,-2.0,4.221398082704411
-[17:14:41] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/6770, l='ServerLevel[world]', x=189.50, y=54.00, z=-268.80]
-[17:14:41] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/6770, l='ServerLevel[world]', x=189.50, y=54.00, z=-268.80]
-[17:14:48] [Server thread/WARN]: Fetching packet for removed entity bcs['Dirt'/6828, l='ServerLevel[world]', x=126.29, y=66.58, z=-325.41]
-[17:14:48] [Server thread/WARN]: Fetching packet for removed entity bcs['Dirt'/6828, l='ServerLevel[world]', x=126.29, y=66.58, z=-325.41]
-[17:14:48] [Server thread/WARN]: Fetching packet for removed entity bcs['Dirt'/6828, l='ServerLevel[world]', x=126.29, y=66.58, z=-325.41]
-[17:14:48] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/6829, l='ServerLevel[world]', x=129.69, y=64.73, z=-329.59]
-[17:14:48] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/6829, l='ServerLevel[world]', x=129.69, y=64.73, z=-329.59]
-[17:14:48] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/6829, l='ServerLevel[world]', x=129.69, y=64.73, z=-329.59]
-[17:14:48] [Server thread/WARN]: Fetching packet for removed entity bcs['Dirt'/6830, l='ServerLevel[world]', x=134.73, y=68.27, z=-326.43]
-[17:14:48] [Server thread/WARN]: Fetching packet for removed entity bcs['Dirt'/6830, l='ServerLevel[world]', x=134.73, y=68.27, z=-326.43]
-[17:14:48] [Server thread/WARN]: Fetching packet for removed entity bcs['Dirt'/6830, l='ServerLevel[world]', x=134.73, y=68.27, z=-326.43]
-[17:14:48] [Server thread/WARN]: Fetching packet for removed entity bcs['Granite'/6832, l='ServerLevel[world]', x=134.33, y=66.42, z=-327.26]
-[17:14:48] [Server thread/WARN]: Fetching packet for removed entity bcs['Granite'/6832, l='ServerLevel[world]', x=134.33, y=66.42, z=-327.26]
-[17:14:48] [Server thread/WARN]: Fetching packet for removed entity bcs['Granite'/6832, l='ServerLevel[world]', x=134.33, y=66.42, z=-327.26]
-[17:14:48] [Server thread/WARN]: Fetching packet for removed entity bcs['Dirt'/6833, l='ServerLevel[world]', x=134.73, y=70.62, z=-328.66]
-[17:14:48] [Server thread/WARN]: Fetching packet for removed entity bcs['Dirt'/6833, l='ServerLevel[world]', x=134.73, y=70.62, z=-328.66]
-[17:14:48] [Server thread/WARN]: Fetching packet for removed entity bcs['Dirt'/6833, l='ServerLevel[world]', x=134.73, y=70.62, z=-328.66]
-[17:14:48] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/6835, l='ServerLevel[world]', x=128.69, y=65.70, z=-329.64]
-[17:14:48] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/6835, l='ServerLevel[world]', x=128.69, y=65.70, z=-329.64]
-[17:14:48] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/6835, l='ServerLevel[world]', x=128.69, y=65.70, z=-329.64]
-[17:14:48] [Server thread/WARN]: Fetching packet for removed entity bcs['Dirt'/6836, l='ServerLevel[world]', x=127.34, y=65.27, z=-327.33]
-[17:14:48] [Server thread/WARN]: Fetching packet for removed entity bcs['Dirt'/6836, l='ServerLevel[world]', x=127.34, y=65.27, z=-327.33]
-[17:14:48] [Server thread/WARN]: Fetching packet for removed entity bcs['Dirt'/6836, l='ServerLevel[world]', x=127.34, y=65.27, z=-327.33]
-[17:14:48] [Server thread/WARN]: Fetching packet for removed entity bcs['Dirt'/6839, l='ServerLevel[world]', x=132.74, y=69.58, z=-332.34]
-[17:14:48] [Server thread/WARN]: Fetching packet for removed entity bcs['Dirt'/6839, l='ServerLevel[world]', x=132.74, y=69.58, z=-332.34]
-[17:14:48] [Server thread/WARN]: Fetching packet for removed entity bcs['Dirt'/6839, l='ServerLevel[world]', x=132.74, y=69.58, z=-332.34]
-[17:14:48] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/6840, l='ServerLevel[world]', x=128.68, y=65.32, z=-330.48]
-[17:14:48] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/6840, l='ServerLevel[world]', x=128.68, y=65.32, z=-330.48]
-[17:14:48] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/6840, l='ServerLevel[world]', x=128.68, y=65.32, z=-330.48]
-[17:14:48] [Server thread/WARN]: Fetching packet for removed entity bcs['Dirt'/6841, l='ServerLevel[world]', x=125.73, y=65.33, z=-327.55]
-[17:14:48] [Server thread/WARN]: Fetching packet for removed entity bcs['Dirt'/6841, l='ServerLevel[world]', x=125.73, y=65.33, z=-327.55]
-[17:14:48] [Server thread/WARN]: Fetching packet for removed entity bcs['Dirt'/6841, l='ServerLevel[world]', x=125.73, y=65.33, z=-327.55]
-[17:16:07] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/7115, l='ServerLevel[world]', x=189.52, y=54.00, z=-267.29]
-[17:16:07] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/7115, l='ServerLevel[world]', x=189.52, y=54.00, z=-267.29]
-[17:16:33] [Server thread/INFO]: mmolinaf lost connection: Timed out
-[17:16:33] [Server thread/INFO]: mmolinaf left the game
-[17:16:38] [Server thread/INFO]: mmolinaf[/25.100.210.49:57578] logged in with entity id 7258 at (122.62980592500026, 66.0, -327.70545424071884)
-[17:16:38] [Server thread/INFO]: mmolinaf joined the game
-[17:17:29] [Server thread/INFO]: mmolinaf lost connection: Timed out
-[17:17:29] [Server thread/INFO]: mmolinaf left the game
-[17:17:29] [Server thread/INFO]: mmolinaf[/25.100.210.49:57581] logged in with entity id 7415 at (127.256032235013, 65.0, -322.7058252888652)
-[17:17:29] [Server thread/INFO]: mmolinaf joined the game
-[17:17:45] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/7482, l='ServerLevel[world]', x=193.33, y=54.00, z=-268.28]
-[17:18:12] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/7586, l='ServerLevel[world]', x=193.54, y=54.00, z=-265.53]
-[17:18:51] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/7771, l='ServerLevel[world]', x=188.26, y=54.00, z=-265.60]
-[17:21:41] [Server thread/INFO]: oruat lost connection: Disconnected
-[17:21:41] [Server thread/INFO]: oruat left the game
-[17:21:54] [Server thread/INFO]: oruat[/25.99.45.193:63259] logged in with entity id 8483 at (121.05955083100757, 64.0, -401.1619386120633)
-[17:21:54] [Server thread/INFO]: oruat joined the game
-[17:22:05] [Server thread/INFO]: mateo uwu[/25.100.203.243:49817] logged in with entity id 8518 at (256.86972014386606, 66.0, -357.68217045321813)
-[17:22:05] [Server thread/INFO]: mateo uwu joined the game
-[17:22:13] [Server thread/INFO]: <mmolinaf> a mimir
-[17:22:23] [Server thread/INFO]: mateo uwu lost connection: Disconnected
-[17:22:23] [Server thread/INFO]: mateo uwu left the game
-[17:22:37] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/8681, l='ServerLevel[world]', x=124.17, y=64.00, z=-409.41]
-[17:22:37] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/8681, l='ServerLevel[world]', x=124.17, y=64.00, z=-409.41]
-[17:22:37] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/8681, l='ServerLevel[world]', x=124.17, y=64.00, z=-409.41]
-[17:22:46] [Server thread/INFO]: mateo uwu[/25.100.203.243:49822] logged in with entity id 8711 at (256.86972014386606, 66.0, -357.68217045321813)
-[17:22:46] [Server thread/INFO]: mateo uwu joined the game
-[17:23:50] [Server thread/INFO]: mmolinaf was blown up by Creeper
-[17:23:53] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/9203, l='ServerLevel[world]', x=123.98, y=64.00, z=-407.33]
-[17:23:53] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/9203, l='ServerLevel[world]', x=123.98, y=64.00, z=-407.33]
-[17:23:53] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/9203, l='ServerLevel[world]', x=123.98, y=64.00, z=-407.33]
-[17:24:43] [Server thread/INFO]: mmolinaf lost connection: Timed out
-[17:24:43] [Server thread/INFO]: mmolinaf left the game
-[17:25:22] [Server thread/INFO]: mmolinaf[/25.100.210.49:57594] logged in with entity id 9617 at (106.5, 63.0, -323.5)
-[17:25:22] [Server thread/INFO]: mmolinaf joined the game
-[17:26:06] [Server thread/INFO]: mmolinaf lost connection: Timed out
-[17:26:06] [Server thread/INFO]: mmolinaf left the game
-[17:26:37] [Server thread/INFO]: mmolinaf[/25.100.210.49:57598] logged in with entity id 9903 at (106.5, 63.0, -323.5)
-[17:26:37] [Server thread/INFO]: mmolinaf joined the game
-[17:27:14] [Server thread/INFO]: mmolinaf lost connection: Timed out
-[17:27:14] [Server thread/INFO]: mmolinaf left the game
-[17:27:41] [Server thread/INFO]: mmolinaf[/25.100.210.49:57613] logged in with entity id 10166 at (106.5, 63.0, -323.5)
-[17:27:41] [Server thread/INFO]: mmolinaf joined the game
-[17:28:16] [Server thread/INFO]: mmolinaf lost connection: Timed out
-[17:28:16] [Server thread/INFO]: mmolinaf left the game
-[17:28:53] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/10393, l='ServerLevel[world]', x=123.78, y=64.00, z=-406.83]
-[17:28:53] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/10393, l='ServerLevel[world]', x=123.78, y=64.00, z=-406.83]
-[17:30:05] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/10638, l='ServerLevel[world]', x=189.37, y=54.00, z=-266.63]
-[17:30:38] [Server thread/INFO]: mmolinaf[/25.100.210.49:57668] logged in with entity id 10740 at (106.5, 63.0, -323.5)
-[17:30:38] [Server thread/INFO]: mmolinaf joined the game
-[17:30:58] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/10846, l='ServerLevel[world]', x=191.07, y=54.00, z=-267.25]
-[17:30:58] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/10846, l='ServerLevel[world]', x=191.07, y=54.00, z=-267.25]
-[17:30:59] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/10848, l='ServerLevel[world]', x=123.02, y=64.00, z=-409.53]
-[17:30:59] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/10848, l='ServerLevel[world]', x=123.02, y=64.00, z=-409.53]
-[17:30:59] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/10848, l='ServerLevel[world]', x=123.02, y=64.00, z=-409.53]
-[17:31:09] [Server thread/INFO]: mmolinaf lost connection: Timed out
-[17:31:09] [Server thread/INFO]: mmolinaf left the game
-[17:38:58] [Server thread/INFO]: <mateo uwu> oruat
-[17:40:53] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/13487, l='ServerLevel[world]', x=208.41, y=59.00, z=-435.88]
-[17:48:21] [Server thread/INFO]: mmolinaf[/25.100.210.49:57757] logged in with entity id 15455 at (106.5, 63.0, -323.5)
-[17:48:21] [Server thread/INFO]: mmolinaf joined the game
-[17:49:21] [Server thread/INFO]: mmolinaf lost connection: Timed out
-[17:49:21] [Server thread/INFO]: mmolinaf left the game
-[17:49:43] [Server thread/INFO]: mmolinaf[/25.100.210.49:57765] logged in with entity id 15888 at (112.91892275847182, 64.17675927506424, -324.64883464145953)
-[17:49:43] [Server thread/INFO]: mmolinaf joined the game
-[17:50:07] [Server thread/INFO]: <mateo uwu> zzz
-[17:50:07] [Server thread/INFO]: <mateo uwu> z
-[17:50:08] [Server thread/INFO]: <mateo uwu> z
-[17:50:08] [Server thread/INFO]: <mateo uwu> z
-[17:50:08] [Server thread/INFO]: <mateo uwu> z
-[17:50:08] [Server thread/INFO]: <mateo uwu> z
-[17:50:08] [Server thread/INFO]: <mateo uwu> z
-[17:50:08] [Server thread/INFO]: <mateo uwu> z
-[17:50:15] [Server thread/INFO]: <oruat> mateo uwu
-[17:53:51] [Server thread/WARN]: Fetching packet for removed entity bcs['Sand'/16859, l='ServerLevel[world]', x=129.88, y=68.00, z=-339.88]
-[17:54:58] [Server thread/INFO]: mmolinaf lost connection: Timed out
-[17:54:58] [Server thread/INFO]: mmolinaf left the game
-[17:55:06] [Server thread/INFO]: mmolinaf[/25.100.210.49:57779] logged in with entity id 17239 at (128.36326931193025, 66.0, -339.9052007552209)
-[17:56:06] [Server Watchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
-[17:57:47] [Server thread/INFO]: mmolinaf joined the game
-[17:57:47] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
-[17:57:47] [Server Watchdog/ERROR]: This crash report has been saved to: E:\archivos\escritorio\minecraft server\maincra\.\crash-reports\crash-2020-11-03_17.57.47-server.txt
-[17:57:47] [Server thread/INFO]: Stopping server
-[17:57:47] [Server thread/INFO]: Saving players
-[17:57:47] [Server thread/INFO]: abihido lost connection: Disconnected
-[17:57:47] [Server thread/INFO]: abihido left the game
-[17:57:47] [Server thread/INFO]: mateo uwu lost connection: Disconnected
-[17:57:47] [Server thread/INFO]: mateo uwu left the game
-[17:57:47] [Server thread/INFO]: Saving worlds
-[17:57:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:57:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:57:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[17:57:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:57:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[17:57:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:57:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:57:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:57:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:01:25] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[18:01:26] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:01:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:01:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:01:26] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:01:26] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:01:26] [main/INFO]: Reloading ResourceManager: Default
+[18:01:27] [Worker-Main-6/INFO]: Loaded 7 recipes
+[18:01:27] [Worker-Main-6/INFO]: Loaded 927 advancements
+[18:01:28] [Server thread/INFO]: Starting minecraft server version 1.16.3
+[18:01:28] [Server thread/INFO]: Loading properties
+[18:01:28] [Server thread/INFO]: Default game type: SURVIVAL
+[18:01:28] [Server thread/INFO]: Generating keypair
+[18:01:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:01:28] [Server thread/INFO]: Using default channel type
+[18:01:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:01:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:01:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:01:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:01:29] [Server thread/INFO]: Preparing level "world"
+[18:01:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:01:30] [Server thread/INFO]: Preparing spawn area: 0%
+[18:01:30] [Server thread/INFO]: Preparing spawn area: 0%
+[18:01:30] [Server thread/INFO]: Preparing spawn area: 0%
+[18:01:31] [Server thread/INFO]: Preparing spawn area: 0%
+[18:01:31] [Server thread/INFO]: Preparing spawn area: 0%
+[18:01:32] [Server thread/INFO]: Time elapsed: 3359 ms
+[18:01:32] [Server thread/INFO]: Done (3.519s)! For help, type "help"
+[18:04:08] [Server thread/INFO]: oruat[/25.99.45.193:63489] logged in with entity id 256 at (146.5900386661645, 64.7531999805212, -423.9672024702236)
+[18:04:08] [Server thread/INFO]: oruat joined the game
+[18:04:38] [Server thread/INFO]: abihido[/25.95.44.171:52876] logged in with entity id 612 at (197.69999998807907, 91.0, -443.27403423747194)
+[18:04:38] [Server thread/INFO]: abihido joined the game
+[18:06:11] [Server thread/INFO]: mmolinaf[/25.100.210.49:57897] logged in with entity id 881 at (128.36326931193025, 66.0, -339.9052007552209)
+[18:07:11] [Server Watchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[18:40:50] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[18:40:50] [Server thread/INFO]: mmolinaf joined the game
+[18:40:50] [Server Watchdog/ERROR]: This crash report has been saved to: E:\archivos\escritorio\minecraft server\maincra\.\crash-reports\crash-2020-11-03_18.40.50-server.txt
+[18:40:50] [Server thread/INFO]: Stopping server
