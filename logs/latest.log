@@ -1,38 +1,491 @@
-[18:01:25] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[18:01:26] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:01:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:01:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:01:26] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:01:26] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:01:26] [main/INFO]: Reloading ResourceManager: Default
-[18:01:27] [Worker-Main-6/INFO]: Loaded 7 recipes
-[18:01:27] [Worker-Main-6/INFO]: Loaded 927 advancements
-[18:01:28] [Server thread/INFO]: Starting minecraft server version 1.16.3
-[18:01:28] [Server thread/INFO]: Loading properties
-[18:01:28] [Server thread/INFO]: Default game type: SURVIVAL
-[18:01:28] [Server thread/INFO]: Generating keypair
-[18:01:28] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:01:28] [Server thread/INFO]: Using default channel type
-[18:01:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:01:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:01:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:01:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:01:29] [Server thread/INFO]: Preparing level "world"
-[18:01:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:01:30] [Server thread/INFO]: Preparing spawn area: 0%
-[18:01:30] [Server thread/INFO]: Preparing spawn area: 0%
-[18:01:30] [Server thread/INFO]: Preparing spawn area: 0%
-[18:01:31] [Server thread/INFO]: Preparing spawn area: 0%
-[18:01:31] [Server thread/INFO]: Preparing spawn area: 0%
-[18:01:32] [Server thread/INFO]: Time elapsed: 3359 ms
-[18:01:32] [Server thread/INFO]: Done (3.519s)! For help, type "help"
-[18:04:08] [Server thread/INFO]: oruat[/25.99.45.193:63489] logged in with entity id 256 at (146.5900386661645, 64.7531999805212, -423.9672024702236)
-[18:04:08] [Server thread/INFO]: oruat joined the game
-[18:04:38] [Server thread/INFO]: abihido[/25.95.44.171:52876] logged in with entity id 612 at (197.69999998807907, 91.0, -443.27403423747194)
-[18:04:38] [Server thread/INFO]: abihido joined the game
-[18:06:11] [Server thread/INFO]: mmolinaf[/25.100.210.49:57897] logged in with entity id 881 at (128.36326931193025, 66.0, -339.9052007552209)
-[18:07:11] [Server Watchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
-[18:40:50] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
-[18:40:50] [Server thread/INFO]: mmolinaf joined the game
-[18:40:50] [Server Watchdog/ERROR]: This crash report has been saved to: E:\archivos\escritorio\minecraft server\maincra\.\crash-reports\crash-2020-11-03_18.40.50-server.txt
-[18:40:50] [Server thread/INFO]: Stopping server
+[18:58:34] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[18:58:36] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:58:36] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:58:36] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:58:36] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:58:36] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:58:36] [main/INFO]: Reloading ResourceManager: Default
+[18:58:37] [Worker-Main-11/INFO]: Loaded 7 recipes
+[18:58:38] [Worker-Main-11/INFO]: Loaded 927 advancements
+[18:58:42] [Server thread/INFO]: Starting minecraft server version 1.16.3
+[18:58:42] [Server thread/INFO]: Loading properties
+[18:58:42] [Server thread/INFO]: Default game type: SURVIVAL
+[18:58:42] [Server thread/INFO]: Generating keypair
+[18:58:42] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:58:43] [Server thread/INFO]: Using default channel type
+[18:58:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:58:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:58:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:58:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:58:51] [Server thread/INFO]: Preparing level "world"
+[18:58:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:58:54] [Server thread/INFO]: Preparing spawn area: 0%
+[18:58:54] [Server thread/INFO]: Preparing spawn area: 0%
+[18:58:54] [Server thread/INFO]: Preparing spawn area: 0%
+[18:58:54] [Server thread/INFO]: Preparing spawn area: 0%
+[18:58:54] [Server thread/INFO]: Preparing spawn area: 0%
+[18:58:54] [Server thread/INFO]: Preparing spawn area: 0%
+[18:58:54] [Server thread/INFO]: Preparing spawn area: 0%
+[18:58:55] [Server thread/INFO]: Preparing spawn area: 0%
+[18:58:55] [Server thread/INFO]: Preparing spawn area: 0%
+[18:58:56] [Server thread/INFO]: Preparing spawn area: 83%
+[18:59:01] [Server thread/INFO]: Time elapsed: 9532 ms
+[18:59:01] [Server thread/INFO]: Done (9.800s)! For help, type "help"
+[18:59:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3285ms or 65 ticks behind
+[18:59:07] [Server thread/INFO]: daniel19066[/25.0.0.60:62777] logged in with entity id 294 at (190.70455459249013, 60.0, -265.56421771226235)
+[18:59:07] [Server thread/INFO]: daniel19066 joined the game
+[18:59:13] [Server thread/INFO]: abihido[/127.0.0.1:53292] logged in with entity id 424 at (197.69999998807907, 84.1212968405392, -440.43053448555895)
+[18:59:13] [Server thread/INFO]: abihido joined the game
+[18:59:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18363ms or 367 ticks behind
+[18:59:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4372ms or 87 ticks behind
+[19:00:54] [Server thread/INFO]: mmolinaf[/25.100.210.49:50200] logged in with entity id 933 at (128.36326931193025, 66.0, -339.9052007552209)
+[19:00:54] [Server thread/INFO]: mmolinaf joined the game
+[19:01:28] [Server thread/INFO]: Set the time to 2000
+[19:02:26] [Server thread/INFO]: mateo uwu[/25.100.203.243:50416] logged in with entity id 1292 at (202.02421129549592, 40.0, -429.952059171501)
+[19:02:26] [Server thread/INFO]: mateo uwu joined the game
+[19:02:30] [Server thread/INFO]: oruat[/25.99.45.193:65113] logged in with entity id 1303 at (102.80621938191074, 64.0, -414.25535548892753)
+[19:02:30] [Server thread/INFO]: oruat joined the game
+[19:03:24] [Server thread/INFO]: mmolinaf lost connection: Timed out
+[19:03:24] [Server thread/INFO]: mmolinaf left the game
+[19:03:33] [Server thread/INFO]: mmolinaf[/25.100.210.49:50209] logged in with entity id 1589 at (116.48841218518587, 63.0, -326.24240230181573)
+[19:03:33] [Server thread/INFO]: mmolinaf joined the game
+[19:04:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[19:04:33] [Server thread/INFO]: <mateo uwu> pos yo las puse
+[19:06:14] [Server thread/INFO]: <mateo uwu> maybe
+[19:07:41] [Server thread/INFO]: <mateo uwu> minando
+[19:09:41] [Server thread/INFO]: <mateo uwu> Affinidad es pal casco, artropodos espada
+[19:09:45] [Server thread/INFO]: <mateo uwu> eficiencia mina
+[19:11:05] [Server thread/INFO]: <mateo uwu> no
+[19:11:12] [Server thread/INFO]: <mateo uwu> sep
+[19:11:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2097ms or 41 ticks behind
+[19:12:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[19:12:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[19:12:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[19:13:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[19:20:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[19:20:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[19:20:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[19:21:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[19:21:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2749ms or 54 ticks behind
+[19:21:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3112ms or 62 ticks behind
+[19:22:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2400ms or 48 ticks behind
+[19:24:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[19:24:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2071ms or 41 ticks behind
+[19:25:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[19:25:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5640ms or 112 ticks behind
+[19:25:25] [Server thread/INFO]: daniel19066 lost connection: Disconnected
+[19:25:25] [Server thread/INFO]: daniel19066 left the game
+[19:28:08] [Server thread/WARN]: mmolinaf moved wrongly!
+[19:29:17] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/8144, l='ServerLevel[world]', x=138.70, y=63.72, z=-311.31]
+[19:30:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
+[19:31:03] [Server thread/INFO]: Set the time to 2000
+[19:31:31] [Server thread/INFO]: <oruat> -312 -920
+[19:32:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[19:32:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6843ms or 136 ticks behind
+[19:33:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6919ms or 138 ticks behind
+[19:33:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5226ms or 104 ticks behind
+[19:33:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6881ms or 137 ticks behind
+[19:34:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6273ms or 125 ticks behind
+[19:34:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3395ms or 67 ticks behind
+[19:34:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3690ms or 73 ticks behind
+[19:34:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2270ms or 45 ticks behind
+[19:35:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2178ms or 43 ticks behind
+[19:35:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3886ms or 77 ticks behind
+[19:35:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[19:36:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6276ms or 125 ticks behind
+[19:36:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7913ms or 158 ticks behind
+[19:36:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[19:37:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4943ms or 98 ticks behind
+[19:37:34] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/10885, l='ServerLevel[world]', x=102.03, y=64.00, z=-415.66]
+[19:37:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6245ms or 124 ticks behind
+[19:38:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7415ms or 148 ticks behind
+[19:38:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7968ms or 159 ticks behind
+[19:38:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4305ms or 86 ticks behind
+[19:39:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3016ms or 60 ticks behind
+[19:39:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
+[19:39:19] [Server thread/INFO]: oruat has made the advancement [Best Friends Forever]
+[19:39:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[19:39:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2680ms or 53 ticks behind
+[19:40:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3989ms or 79 ticks behind
+[19:40:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3006ms or 60 ticks behind
+[19:40:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[19:41:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[19:41:46] [Server thread/INFO]: Set the time to 2000
+[19:41:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[19:42:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[19:42:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4143ms or 82 ticks behind
+[19:42:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[19:43:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[19:43:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[19:44:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[19:47:17] [Server thread/INFO]: abihido drowned
+[19:47:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[19:47:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8481ms or 169 ticks behind
+[19:48:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2359ms or 47 ticks behind
+[19:48:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2158ms or 43 ticks behind
+[19:48:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2483ms or 49 ticks behind
+[19:49:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4129ms or 82 ticks behind
+[19:49:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2236ms or 44 ticks behind
+[19:49:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2485ms or 49 ticks behind
+[19:50:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[19:50:56] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/14983, l='ServerLevel[world]', x=101.56, y=64.00, z=-416.78]
+[19:51:07] [Server thread/INFO]: <mateo uwu> nop
+[19:51:08] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/15048, l='ServerLevel[world]', x=188.80, y=54.00, z=-266.95]
+[19:51:14] [Server thread/INFO]: Set the time to 2000
+[19:52:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2162ms or 43 ticks behind
+[19:53:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3608ms or 72 ticks behind
+[19:53:53] [Server thread/WARN]: Boat (vehicle of mateo uwu) moved too quickly! -0.4876181371218422,0.0,-10.28859558006036
+[19:53:53] [Server thread/WARN]: Boat (vehicle of mateo uwu) moved too quickly! -0.5532833654042975,0.0,-10.678532214846086
+[19:54:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[19:55:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3241ms or 64 ticks behind
+[19:55:48] [Server thread/WARN]: Boat (vehicle of oruat) moved too quickly! -0.4634836584869504,0.0,10.38947702667258
+[19:55:48] [Server thread/WARN]: Boat (vehicle of oruat) moved too quickly! -0.48131021561761145,0.0,10.78907818279174
+[19:55:48] [Server thread/WARN]: Boat (vehicle of oruat) moved too quickly! -0.4991367784961085,0.0,11.188679467755492
+[19:55:48] [Server thread/WARN]: Boat (vehicle of oruat) moved too quickly! -0.5169633465477546,0.0,11.588280868679362
+[19:55:48] [Server thread/WARN]: Boat (vehicle of oruat) moved too quickly! -0.5347899192551608,0.0,11.987882373967409
+[19:55:48] [Server thread/WARN]: Boat (vehicle of oruat) moved too quickly! -0.5526164961527229,0.0,12.387483973183066
+[19:55:48] [Server thread/WARN]: Boat (vehicle of oruat) moved too quickly! -0.5704430768215047,0.0,12.787085656933641
+[19:56:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3523ms or 70 ticks behind
+[19:56:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2136ms or 42 ticks behind
+[19:56:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[19:57:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4240ms or 84 ticks behind
+[19:57:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2943ms or 58 ticks behind
+[19:57:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4752ms or 95 ticks behind
+[19:58:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6474ms or 129 ticks behind
+[19:58:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9006ms or 180 ticks behind
+[19:59:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13841ms or 276 ticks behind
+[19:59:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10021ms or 200 ticks behind
+[19:59:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7410ms or 148 ticks behind
+[19:59:52] [Server thread/INFO]: <mateo uwu> -550 -1225
+[20:00:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5974ms or 119 ticks behind
+[20:00:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6431ms or 128 ticks behind
+[20:00:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9109ms or 182 ticks behind
+[20:01:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9255ms or 185 ticks behind
+[20:01:31] [Server thread/INFO]: Set the time to 2000
+[20:01:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7542ms or 150 ticks behind
+[20:02:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9143ms or 182 ticks behind
+[20:02:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5874ms or 117 ticks behind
+[20:02:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5745ms or 114 ticks behind
+[20:03:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5363ms or 107 ticks behind
+[20:03:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3757ms or 75 ticks behind
+[20:03:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2285ms or 45 ticks behind
+[20:04:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[20:05:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[20:05:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[20:06:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[20:06:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[20:06:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3031ms or 60 ticks behind
+[20:06:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2466ms or 49 ticks behind
+[20:07:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[20:07:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2700ms or 54 ticks behind
+[20:07:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[20:08:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2252ms or 45 ticks behind
+[20:08:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[20:08:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[20:08:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2493ms or 49 ticks behind
+[20:09:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[20:09:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2188ms or 43 ticks behind
+[20:09:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2379ms or 47 ticks behind
+[20:10:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[20:11:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
+[20:11:26] [Server thread/INFO]: mmolinaf lost connection: Disconnected
+[20:11:26] [Server thread/INFO]: mmolinaf left the game
+[20:12:00] [Server thread/INFO]: mmolinaf[/25.100.210.49:50395] logged in with entity id 21623 at (104.9357179730183, 66.0, -322.2966310032215)
+[20:12:00] [Server thread/INFO]: mmolinaf joined the game
+[20:12:35] [Server thread/INFO]: mmolinaf lost connection: Timed out
+[20:12:35] [Server thread/INFO]: mmolinaf left the game
+[20:13:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[20:13:32] [Server thread/INFO]: mmolinaf[/25.100.210.49:50402] logged in with entity id 22094 at (104.9357179730183, 66.0, -322.2966310032215)
+[20:13:32] [Server thread/INFO]: mmolinaf joined the game
+[20:13:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[20:14:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[20:14:01] [Server thread/INFO]: Set the time to 2000
+[20:14:04] [Server thread/INFO]: mmolinaf lost connection: Timed out
+[20:14:04] [Server thread/INFO]: mmolinaf left the game
+[20:14:28] [Server thread/INFO]: mmolinaf[/25.100.210.49:50412] logged in with entity id 22399 at (104.9357179730183, 66.0, -322.2966310032215)
+[20:14:28] [Server thread/INFO]: mmolinaf joined the game
+[20:14:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[20:14:37] [Server thread/INFO]: <mateo uwu> es que ella no conecta con ud
+[20:14:40] [Server thread/INFO]: <mateo uwu> no fluye
+[20:14:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3362ms or 67 ticks behind
+[20:15:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3226ms or 64 ticks behind
+[20:15:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2151ms or 43 ticks behind
+[20:15:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[20:15:44] [Server thread/INFO]: oruat lost connection: Disconnected
+[20:15:44] [Server thread/INFO]: oruat left the game
+[20:16:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2205ms or 44 ticks behind
+[20:17:17] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:17:17] [Server thread/INFO]: HELP<--[HERE]
+[20:17:20] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:17:20] [Server thread/INFO]: HELP<--[HERE]
+[20:17:23] [Server thread/INFO]: /advancement (grant|revoke)
+[20:17:23] [Server thread/INFO]: /attribute <target> <attribute> (base|get|modifier)
+[20:17:23] [Server thread/INFO]: /ban <targets> [<reason>]
+[20:17:23] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[20:17:23] [Server thread/INFO]: /banlist [ips|players]
+[20:17:23] [Server thread/INFO]: /bossbar (add|get|list|remove|set)
+[20:17:23] [Server thread/INFO]: /clear [<targets>]
+[20:17:23] [Server thread/INFO]: /clone <begin> <end> <destination> [filtered|masked|replace]
+[20:17:23] [Server thread/INFO]: /data (get|merge|modify|remove)
+[20:17:23] [Server thread/INFO]: /datapack (disable|enable|list)
+[20:17:23] [Server thread/INFO]: /debug (report|start|stop)
+[20:17:23] [Server thread/INFO]: /defaultgamemode (adventure|creative|spectator|survival)
+[20:17:23] [Server thread/INFO]: /deop <targets>
+[20:17:23] [Server thread/INFO]: /difficulty [easy|hard|normal|peaceful]
+[20:17:23] [Server thread/INFO]: /effect (clear|give)
+[20:17:23] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[20:17:23] [Server thread/INFO]: /execute (align|anchored|as|at|facing|if|in|positioned|rotated|run|store|unless)
+[20:17:23] [Server thread/INFO]: /experience (add|query|set)
+[20:17:23] [Server thread/INFO]: /fill <from> <to> <block> [destroy|hollow|keep|outline|replace]
+[20:17:23] [Server thread/INFO]: /forceload (add|query|remove)
+[20:17:23] [Server thread/INFO]: /function <name>
+[20:17:23] [Server thread/INFO]: /gamemode (adventure|creative|spectator|survival)
+[20:17:23] [Server thread/INFO]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks|universalAnger)
+[20:17:23] [Server thread/INFO]: /give <targets> <item> [<count>]
+[20:17:23] [Server thread/INFO]: /help [<command>]
+[20:17:23] [Server thread/INFO]: /kick <targets> [<reason>]
+[20:17:23] [Server thread/INFO]: /kill [<targets>]
+[20:17:23] [Server thread/INFO]: /list [uuids]
+[20:17:23] [Server thread/INFO]: /locate (bastion_remnant|buried_treasure|desert_pyramid|endcity|fortress|igloo|jungle_pyramid|mansion|mineshaft|monument|nether_fossil|ocean_ruin|pillager_outpost|ruined_portal|shipwreck|stronghold|swamp_hut|village)
+[20:17:23] [Server thread/INFO]: /locatebiome <biome>
+[20:17:23] [Server thread/INFO]: /loot (give|insert|replace|spawn)
+[20:17:23] [Server thread/INFO]: /me <action>
+[20:17:23] [Server thread/INFO]: /msg <targets> <message>
+[20:17:23] [Server thread/INFO]: /op <targets>
+[20:17:23] [Server thread/INFO]: /pardon <targets>
+[20:17:23] [Server thread/INFO]: /pardon-ip <target>
+[20:17:23] [Server thread/INFO]: /particle <name> [<pos>]
+[20:17:23] [Server thread/INFO]: /playsound <sound> (ambient|block|hostile|master|music|neutral|player|record|voice|weather)
+[20:17:23] [Server thread/INFO]: /recipe (give|take)
+[20:17:23] [Server thread/INFO]: /reload
+[20:17:23] [Server thread/INFO]: /replaceitem (block|entity)
+[20:17:23] [Server thread/INFO]: /save-all [flush]
+[20:17:23] [Server thread/INFO]: /save-off
+[20:17:23] [Server thread/INFO]: /save-on
+[20:17:23] [Server thread/INFO]: /say <message>
+[20:17:23] [Server thread/INFO]: /schedule (clear|function)
+[20:17:23] [Server thread/INFO]: /scoreboard (objectives|players)
+[20:17:23] [Server thread/INFO]: /seed
+[20:17:23] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[20:17:23] [Server thread/INFO]: /setidletimeout <minutes>
+[20:17:23] [Server thread/INFO]: /setworldspawn [<pos>]
+[20:17:23] [Server thread/INFO]: /spawnpoint [<targets>]
+[20:17:23] [Server thread/INFO]: /spectate [<target>]
+[20:17:23] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (under|<respectTeams>)
+[20:17:23] [Server thread/INFO]: /stop
+[20:17:23] [Server thread/INFO]: /stopsound <targets> [*|ambient|block|hostile|master|music|neutral|player|record|voice|weather]
+[20:17:23] [Server thread/INFO]: /summon <entity> [<pos>]
+[20:17:23] [Server thread/INFO]: /tag <targets> (add|list|remove)
+[20:17:23] [Server thread/INFO]: /team (add|empty|join|leave|list|modify|remove)
+[20:17:23] [Server thread/INFO]: /teammsg <message>
+[20:17:23] [Server thread/INFO]: /teleport (<destination>|<location>|<targets>)
+[20:17:23] [Server thread/INFO]: /tell -> msg
+[20:17:23] [Server thread/INFO]: /tellraw <targets> <message>
+[20:17:23] [Server thread/INFO]: /time (add|query|set)
+[20:17:23] [Server thread/INFO]: /title <targets> (actionbar|clear|reset|subtitle|times|title)
+[20:17:23] [Server thread/INFO]: /tm -> teammsg
+[20:17:23] [Server thread/INFO]: /tp -> teleport
+[20:17:23] [Server thread/INFO]: /trigger <objective> [add|set]
+[20:17:23] [Server thread/INFO]: /w -> msg
+[20:17:23] [Server thread/INFO]: /weather (clear|rain|thunder)
+[20:17:23] [Server thread/INFO]: /whitelist (add|list|off|on|reload|remove)
+[20:17:23] [Server thread/INFO]: /worldborder (add|center|damage|get|set|warning)
+[20:17:24] [Server thread/INFO]: /xp -> experience
+[20:17:34] [Server thread/INFO]: Set the weather to rain & thunder
+[20:19:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[20:19:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2463ms or 49 ticks behind
+[20:19:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[20:19:56] [Server thread/INFO]: Set the time to 2000
+[20:20:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[20:20:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2636ms or 52 ticks behind
+[20:20:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2185ms or 43 ticks behind
+[20:21:06] [Server thread/WARN]: Horse (vehicle of mateo uwu) moved too quickly! -4.705917188099107,0.0,-9.052086832900613
+[20:21:06] [Server thread/WARN]: Horse (vehicle of mateo uwu) moved too quickly! -4.80734852412246,0.0,-9.343217040407808
+[20:21:06] [Server thread/WARN]: mmolinaf moved too quickly! -9.084081975643926,1.0244240882136921,-4.5399628103645
+[20:21:06] [Server thread/WARN]: Horse (vehicle of mateo uwu) moved too quickly! -7.937118289579473,-2.0,11.358338710849125
+[20:21:06] [Server thread/WARN]: Horse (vehicle of mateo uwu) moved too quickly! -7.937118289579473,-2.0,11.358338710849125
+[20:21:06] [Server thread/WARN]: Horse (vehicle of mateo uwu) moved too quickly! -7.766678550464263,-2.0,11.104834327942854
+[20:21:06] [Server thread/WARN]: Horse (vehicle of mateo uwu) moved too quickly! -7.7882030282466985,-2.0,11.085750728710991
+[20:21:06] [Server thread/WARN]: Horse (vehicle of mateo uwu) moved too quickly! -7.6292806080410855,-2.0,10.82203509234165
+[20:21:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3961ms or 79 ticks behind
+[20:21:27] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/24707, l='ServerLevel[world]', x=188.70, y=54.00, z=-267.42]
+[20:21:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
+[20:22:03] [Server thread/INFO]: Set the time to 2000
+[20:22:22] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:22:22] [Server thread/INFO]: <--[HERE]
+[20:22:22] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:22:22] [Server thread/INFO]: <--[HERE]
+[20:22:22] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:22:22] [Server thread/INFO]: <--[HERE]
+[20:22:22] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:22:22] [Server thread/INFO]: <--[HERE]
+[20:22:22] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:22:22] [Server thread/INFO]: <--[HERE]
+[20:22:22] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:22:22] [Server thread/INFO]: <--[HERE]
+[20:22:23] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:22:23] [Server thread/INFO]: <--[HERE]
+[20:22:23] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:22:23] [Server thread/INFO]: <--[HERE]
+[20:22:23] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:22:23] [Server thread/INFO]: <--[HERE]
+[20:22:24] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:22:24] [Server thread/INFO]: <--[HERE]
+[20:22:28] [Server thread/INFO]: Set the weather to clear
+[20:23:06] [Server thread/INFO]: Set the weather to rain & thunder
+[20:23:47] [Server thread/INFO]: Set the weather to clear
+[20:24:09] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/25185, l='ServerLevel[world]', x=193.04, y=54.00, z=-267.88]
+[20:26:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[20:26:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[20:26:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2312ms or 46 ticks behind
+[20:27:51] [Server thread/INFO]: mmolinaf lost connection: Timed out
+[20:27:51] [Server thread/INFO]: mmolinaf left the game
+[20:27:54] [Server thread/INFO]: mmolinaf[/25.100.210.49:50437] logged in with entity id 25878 at (97.53891050868754, 63.0, -306.7764582700629)
+[20:27:54] [Server thread/INFO]: mmolinaf joined the game
+[20:28:25] [Server thread/WARN]: mmolinaf moved too quickly! 7.610668984756245,0.0,-6.660888109174778
+[20:29:05] [Server thread/WARN]: mmolinaf moved too quickly! 0.6907292954030879,0.0,10.134400804420466
+[20:29:11] [Server thread/INFO]: Set the weather to clear
+[20:29:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[20:30:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[20:30:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[20:30:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3669ms or 73 ticks behind
+[20:31:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3427ms or 68 ticks behind
+[20:31:17] [Server thread/INFO]: Set the time to 2000
+[20:31:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3549ms or 70 ticks behind
+[20:31:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5114ms or 102 ticks behind
+[20:32:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6363ms or 127 ticks behind
+[20:32:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15868ms or 317 ticks behind
+[20:33:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10057ms or 201 ticks behind
+[20:33:14] [Server thread/INFO]: oruat[/25.99.45.193:65409] logged in with entity id 27470 at (121.13573770667419, 64.0, -415.3266495385746)
+[20:33:14] [Server thread/INFO]: oruat joined the game
+[20:33:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4260ms or 85 ticks behind
+[20:33:35] [Server thread/INFO]: mateo uwu lost connection: Disconnected
+[20:33:35] [Server thread/INFO]: mateo uwu left the game
+[20:33:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4145ms or 82 ticks behind
+[20:34:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3833ms or 76 ticks behind
+[20:34:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[20:34:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2116ms or 42 ticks behind
+[20:34:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[20:35:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[20:35:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3120ms or 62 ticks behind
+[20:35:36] [Server thread/INFO]: Set the weather to clear
+[20:35:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2675ms or 53 ticks behind
+[20:36:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[20:36:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[20:37:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4092ms or 81 ticks behind
+[20:37:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4694ms or 93 ticks behind
+[20:37:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3813ms or 76 ticks behind
+[20:38:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3512ms or 70 ticks behind
+[20:38:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4770ms or 95 ticks behind
+[20:38:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9544ms or 190 ticks behind
+[20:39:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[20:39:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3307ms or 66 ticks behind
+[20:39:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[20:40:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[20:40:20] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/30062, l='ServerLevel[world]', x=102.28, y=64.00, z=-415.90]
+[20:40:20] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/30062, l='ServerLevel[world]', x=102.28, y=64.00, z=-415.90]
+[20:41:29] [Server thread/INFO]: Set the weather to clear
+[20:42:08] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/30451, l='ServerLevel[world]', x=193.49, y=54.00, z=-267.32]
+[20:45:46] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/31202, l='ServerLevel[world]', x=190.61, y=54.00, z=-266.61]
+[20:46:38] [Server thread/INFO]: Set the weather to clear
+[20:46:50] [Server thread/INFO]: Set the time to 2000
+[20:52:04] [Server thread/INFO]: Set the weather to clear
+[20:53:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[20:53:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[20:53:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[20:56:01] [Server thread/INFO]: abihido lost connection: Disconnected
+[20:56:01] [Server thread/INFO]: abihido left the game
+[20:56:40] [Server thread/INFO]: abihido[/127.0.0.1:53752] logged in with entity id 33683 at (32.07353292250843, 61.380765664951575, -159.7576302956139)
+[20:56:40] [Server thread/INFO]: abihido joined the game
+[20:56:57] [Server thread/INFO]: Set the time to 2000
+[20:57:40] [Server thread/INFO]: Set the weather to clear
+[20:58:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2168ms or 43 ticks behind
+[20:59:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3966ms or 79 ticks behind
+[21:02:24] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/35096, l='ServerLevel[world]', x=188.63, y=54.00, z=-268.31]
+[21:03:09] [Server thread/INFO]: Set the weather to clear
+[21:03:25] [Server thread/INFO]: mmolinaf was slain by Zombie
+[21:04:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[21:05:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[21:05:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2514ms or 50 ticks behind
+[21:05:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3265ms or 65 ticks behind
+[21:05:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4344ms or 86 ticks behind
+[21:06:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3436ms or 68 ticks behind
+[21:06:36] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/36395, l='ServerLevel[world]', x=188.20, y=54.00, z=-268.80]
+[21:06:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8316ms or 166 ticks behind
+[21:07:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5391ms or 107 ticks behind
+[21:07:18] [Server thread/INFO]: Set the time to 2000
+[21:07:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8108ms or 162 ticks behind
+[21:07:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3465ms or 69 ticks behind
+[21:08:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5635ms or 112 ticks behind
+[21:08:11] [Server thread/INFO]: mateo uwu[/25.100.203.243:51324] logged in with entity id 36924 at (116.92500001192093, 63.0, -316.8341873415902)
+[21:08:11] [Server thread/INFO]: mateo uwu joined the game
+[21:08:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5582ms or 111 ticks behind
+[21:08:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5592ms or 111 ticks behind
+[21:09:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6853ms or 137 ticks behind
+[21:09:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8328ms or 166 ticks behind
+[21:09:40] [Server thread/INFO]: Set the weather to clear
+[21:09:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6919ms or 138 ticks behind
+[21:10:11] [Server thread/INFO]: abihido has made the advancement [What a Deal!]
+[21:10:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7345ms or 146 ticks behind
+[21:10:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4180ms or 83 ticks behind
+[21:10:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9491ms or 189 ticks behind
+[21:11:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7248ms or 144 ticks behind
+[21:11:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4875ms or 97 ticks behind
+[21:12:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8387ms or 167 ticks behind
+[21:12:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5891ms or 117 ticks behind
+[21:12:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6363ms or 127 ticks behind
+[21:13:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4415ms or 88 ticks behind
+[21:13:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4659ms or 93 ticks behind
+[21:13:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5954ms or 119 ticks behind
+[21:14:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5419ms or 108 ticks behind
+[21:14:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4970ms or 99 ticks behind
+[21:14:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4297ms or 85 ticks behind
+[21:15:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5614ms or 112 ticks behind
+[21:15:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6954ms or 139 ticks behind
+[21:15:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5275ms or 105 ticks behind
+[21:16:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5615ms or 112 ticks behind
+[21:16:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5279ms or 105 ticks behind
+[21:16:45] [Server thread/INFO]: Set the weather to clear
+[21:16:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7025ms or 140 ticks behind
+[21:16:52] [Server thread/INFO]: Villager bfg['Villager'/36610, l='ServerLevel[world]', x=789.38, y=54.00, z=72.30] died, message: 'Villager was slain by Zombie'
+[21:17:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7410ms or 148 ticks behind
+[21:17:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6541ms or 130 ticks behind
+[21:18:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14390ms or 287 ticks behind
+[21:18:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8616ms or 172 ticks behind
+[21:18:41] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/39992, l='ServerLevel[world]', x=211.13, y=10.00, z=-468.13]
+[21:18:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4161ms or 83 ticks behind
+[21:19:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7394ms or 147 ticks behind
+[21:19:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4898ms or 97 ticks behind
+[21:19:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3875ms or 77 ticks behind
+[21:20:04] [Server thread/INFO]: mateo uwu lost connection: Disconnected
+[21:20:04] [Server thread/INFO]: mateo uwu left the game
+[21:20:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3799ms or 75 ticks behind
+[21:20:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[21:20:54] [Server thread/WARN]: mmolinaf moved too quickly! -10.107950680732046,0.0,0.342873294374499
+[21:21:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[21:21:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2958ms or 59 ticks behind
+[21:21:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2385ms or 47 ticks behind
+[21:22:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2565ms or 51 ticks behind
+[21:22:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[21:22:57] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/41244, l='ServerLevel[world]', x=189.56, y=54.00, z=-268.80]
+[21:22:57] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/41244, l='ServerLevel[world]', x=189.56, y=54.00, z=-268.80]
+[21:23:14] [Server thread/INFO]: Set the weather to clear
+[21:23:21] [Server thread/INFO]: Set the time to 2000
+[21:25:01] [Server thread/WARN]: Donkey (vehicle of abihido) moved wrongly! 0.3004022064330627
+[21:28:33] [Server thread/INFO]: abihido lost connection: Disconnected
+[21:28:33] [Server thread/INFO]: abihido left the game
+[21:28:34] [Server thread/INFO]: oruat lost connection: Disconnected
+[21:28:34] [Server thread/INFO]: oruat left the game
+[21:28:37] [Server thread/INFO]: Stopping the server
+[21:28:37] [Server thread/INFO]: Stopping server
+[21:28:37] [Server thread/INFO]: Saving players
+[21:28:37] [Server thread/INFO]: Saving worlds
+[21:28:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:28:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:28:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:28:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:28:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:28:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:28:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:28:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:28:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
