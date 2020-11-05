@@ -1914,6 +1914,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2020-11-05 12:34:15 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-10-29 18:47:01 -0500"
@@ -2442,6 +2448,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2020-11-05 12:34:15 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2020-11-01 15:49:57 -0500"
@@ -2451,6 +2463,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2020-10-29 19:37:44 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2020-11-05 11:25:34 -0500"
     },
     "done": true
   },

@@ -610,10 +610,12 @@
       "minecraft:pillager": "2020-10-31 23:11:28 -0500",
       "minecraft:skeleton": "2020-10-31 18:30:00 -0500",
       "minecraft:spider": "2020-10-31 20:20:17 -0500",
+      "minecraft:creeper": "2020-11-05 12:54:27 -0500",
       "minecraft:husk": "2020-10-29 16:12:14 -0500",
       "minecraft:cave_spider": "2020-11-01 13:07:04 -0500",
       "minecraft:zombie": "2020-10-29 16:07:16 -0500",
-      "minecraft:drowned": "2020-11-01 14:03:18 -0500"
+      "minecraft:drowned": "2020-11-01 14:03:18 -0500",
+      "minecraft:zombie_villager": "2020-11-05 12:35:16 -0500"
     },
     "done": false
   },
@@ -2574,6 +2576,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2020-10-29 19:47:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2020-11-05 11:27:39 -0500"
     },
     "done": true
   },
