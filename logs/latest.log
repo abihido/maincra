@@ -1,262 +1,54 @@
-[15:09:01] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[15:09:04] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:09:04] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:09:04] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:09:04] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:09:04] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:09:04] [main/INFO]: Reloading ResourceManager: Default
-[15:09:06] [Worker-Main-14/INFO]: Loaded 7 recipes
-[15:09:07] [Worker-Main-14/INFO]: Loaded 927 advancements
-[15:09:12] [Server thread/INFO]: Starting minecraft server version 1.16.3
-[15:09:12] [Server thread/INFO]: Loading properties
-[15:09:12] [Server thread/INFO]: Default game type: SURVIVAL
-[15:09:12] [Server thread/INFO]: Generating keypair
-[15:09:13] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:09:13] [Server thread/INFO]: Using default channel type
-[15:09:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:09:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:09:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:09:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:09:21] [Server thread/INFO]: Preparing level "world"
-[15:09:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:09:26] [Server thread/INFO]: Preparing spawn area: 0%
-[15:09:26] [Server thread/INFO]: Preparing spawn area: 0%
-[15:09:26] [Server thread/INFO]: Preparing spawn area: 0%
-[15:09:26] [Server thread/INFO]: Preparing spawn area: 0%
-[15:09:26] [Server thread/INFO]: Preparing spawn area: 0%
-[15:09:26] [Server thread/INFO]: Preparing spawn area: 0%
-[15:09:26] [Server thread/INFO]: Preparing spawn area: 0%
-[15:09:26] [Server thread/INFO]: Preparing spawn area: 0%
-[15:09:26] [Server thread/INFO]: Preparing spawn area: 0%
-[15:09:26] [Server thread/INFO]: Preparing spawn area: 0%
-[15:09:27] [Server thread/INFO]: Preparing spawn area: 0%
-[15:09:27] [Server thread/INFO]: Preparing spawn area: 0%
-[15:09:28] [Server thread/INFO]: Preparing spawn area: 83%
-[15:09:40] [Server thread/INFO]: Time elapsed: 18050 ms
-[15:09:40] [Server thread/INFO]: Done (18.609s)! For help, type "help"
-[15:09:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4344ms or 86 ticks behind
-[15:09:50] [Server thread/INFO]: oruat[/25.99.45.193:54434] logged in with entity id 339 at (33.00686785170674, 65.0, -45.04401973991477)
-[15:09:50] [Server thread/INFO]: oruat joined the game
-[15:10:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17235ms or 344 ticks behind
-[15:10:41] [Server thread/INFO]: mmolinaf[/25.100.210.49:58641] logged in with entity id 740 at (118.31520875114406, 69.0, -326.7489832343764)
-[15:10:41] [Server thread/INFO]: mmolinaf joined the game
-[15:10:50] [Server thread/INFO]: <mmolinaf> que paso
-[15:10:56] [Server thread/INFO]: <oruat> lo cerro
-[15:11:05] [Server thread/INFO]: <mmolinaf> y eso :0
-[15:11:16] [Server thread/INFO]: <mmolinaf> pero brutal
-[15:11:22] [Server thread/INFO]: <mmolinaf> porque los ultimos cambios no quedaron
-[15:11:35] [Server thread/INFO]: <oruat> sep yo apareci en el nether D:
-[15:11:42] [Server thread/INFO]: <oruat> con un coso en frente
-[15:11:42] [Server thread/INFO]: <mmolinaf> jajajajaja
-[15:11:51] [Server thread/INFO]: <oruat> a mimir
-[15:11:55] [Server thread/INFO]: <mmolinaf> a mimir
-[15:18:39] [Server thread/INFO]: <mmolinaf> me gusta
-[15:18:47] [Server thread/INFO]: <mmolinaf> es muy inteligente tapar asi
-[15:19:06] [Server thread/INFO]: <oruat> quieres papa
-[15:19:08] [Server thread/INFO]: <oruat> jajaaj
-[15:19:15] [Server thread/INFO]: <mmolinaf> piso de restone?
-[15:19:16] [Server thread/INFO]: <mmolinaf> jjaajjaa
-[15:19:18] [Server thread/INFO]: <mmolinaf> shiii
-[15:19:25] [Server thread/INFO]: <oruat> no sabia que mas hacer con esa joda
-[15:19:41] [Server thread/INFO]: <mmolinaf> me guta
-[15:20:00] [Server thread/INFO]: <mmolinaf> dame papa
-[15:20:15] [Server thread/INFO]: <mmolinaf> y tienes zanahoria o nel
-[15:20:36] [Server thread/INFO]: <oruat> reciba
-[15:20:39] [Server thread/INFO]: <mmolinaf> gachas
-[15:20:50] [Server thread/INFO]: <oruat> cocinela ew
-[15:20:56] [Server thread/INFO]: <mmolinaf> que cosa
-[15:20:59] [Server thread/INFO]: <mmolinaf> la papa se cocina?
-[15:21:01] [Server thread/INFO]: <oruat> la papa jajaja
-[15:21:03] [Server thread/INFO]: <mmolinaf> :=
-[15:21:09] [Server thread/INFO]: <mmolinaf> :0
-[15:21:13] [Server thread/INFO]: <mmolinaf> y la zanahoria tambien?
-[15:21:18] [Server thread/INFO]: <oruat> creo que no
-[15:21:32] [Server thread/INFO]: <mmolinaf> no sabia
-[15:21:48] [Server thread/INFO]: <oruat> quien se come una pap curda iw
-[15:21:56] [Server thread/INFO]: <mmolinaf> oues jajajaja
-[15:22:50] [Server thread/INFO]: <mmolinaf> a mimit
-[15:23:20] [Server thread/INFO]: mmolinaf lost connection: Timed out
-[15:23:20] [Server thread/INFO]: mmolinaf left the game
-[15:23:29] [Server thread/INFO]: mmolinaf[/25.100.210.49:58672] logged in with entity id 3532 at (115.5, 63.0, -322.5)
-[15:23:29] [Server thread/INFO]: mmolinaf joined the game
-[15:24:50] [Server thread/INFO]: /advancement (grant|revoke)
-[15:24:50] [Server thread/INFO]: /attribute <target> <attribute> (base|get|modifier)
-[15:24:50] [Server thread/INFO]: /ban <targets> [<reason>]
-[15:24:50] [Server thread/INFO]: /ban-ip <target> [<reason>]
-[15:24:50] [Server thread/INFO]: /banlist [ips|players]
-[15:24:50] [Server thread/INFO]: /bossbar (add|get|list|remove|set)
-[15:24:50] [Server thread/INFO]: /clear [<targets>]
-[15:24:50] [Server thread/INFO]: /clone <begin> <end> <destination> [filtered|masked|replace]
-[15:24:50] [Server thread/INFO]: /data (get|merge|modify|remove)
-[15:24:50] [Server thread/INFO]: /datapack (disable|enable|list)
-[15:24:50] [Server thread/INFO]: /debug (report|start|stop)
-[15:24:50] [Server thread/INFO]: /defaultgamemode (adventure|creative|spectator|survival)
-[15:24:50] [Server thread/INFO]: /deop <targets>
-[15:24:50] [Server thread/INFO]: /difficulty [easy|hard|normal|peaceful]
-[15:24:50] [Server thread/INFO]: /effect (clear|give)
-[15:24:50] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
-[15:24:50] [Server thread/INFO]: /execute (align|anchored|as|at|facing|if|in|positioned|rotated|run|store|unless)
-[15:24:50] [Server thread/INFO]: /experience (add|query|set)
-[15:24:50] [Server thread/INFO]: /fill <from> <to> <block> [destroy|hollow|keep|outline|replace]
-[15:24:50] [Server thread/INFO]: /forceload (add|query|remove)
-[15:24:50] [Server thread/INFO]: /function <name>
-[15:24:50] [Server thread/INFO]: /gamemode (adventure|creative|spectator|survival)
-[15:24:50] [Server thread/INFO]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks|universalAnger)
-[15:24:50] [Server thread/INFO]: /give <targets> <item> [<count>]
-[15:24:50] [Server thread/INFO]: /help [<command>]
-[15:24:50] [Server thread/INFO]: /kick <targets> [<reason>]
-[15:24:50] [Server thread/INFO]: /kill [<targets>]
-[15:24:50] [Server thread/INFO]: /list [uuids]
-[15:24:50] [Server thread/INFO]: /locate (bastion_remnant|buried_treasure|desert_pyramid|endcity|fortress|igloo|jungle_pyramid|mansion|mineshaft|monument|nether_fossil|ocean_ruin|pillager_outpost|ruined_portal|shipwreck|stronghold|swamp_hut|village)
-[15:24:50] [Server thread/INFO]: /locatebiome <biome>
-[15:24:50] [Server thread/INFO]: /loot (give|insert|replace|spawn)
-[15:24:50] [Server thread/INFO]: /me <action>
-[15:24:50] [Server thread/INFO]: /msg <targets> <message>
-[15:24:50] [Server thread/INFO]: /op <targets>
-[15:24:50] [Server thread/INFO]: /pardon <targets>
-[15:24:50] [Server thread/INFO]: /pardon-ip <target>
-[15:24:50] [Server thread/INFO]: /particle <name> [<pos>]
-[15:24:50] [Server thread/INFO]: /playsound <sound> (ambient|block|hostile|master|music|neutral|player|record|voice|weather)
-[15:24:50] [Server thread/INFO]: /recipe (give|take)
-[15:24:50] [Server thread/INFO]: /reload
-[15:24:50] [Server thread/INFO]: /replaceitem (block|entity)
-[15:24:50] [Server thread/INFO]: /save-all [flush]
-[15:24:50] [Server thread/INFO]: /save-off
-[15:24:50] [Server thread/INFO]: /save-on
-[15:24:50] [Server thread/INFO]: /say <message>
-[15:24:50] [Server thread/INFO]: /schedule (clear|function)
-[15:24:50] [Server thread/INFO]: /scoreboard (objectives|players)
-[15:24:50] [Server thread/INFO]: /seed
-[15:24:50] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
-[15:24:50] [Server thread/INFO]: /setidletimeout <minutes>
-[15:24:50] [Server thread/INFO]: /setworldspawn [<pos>]
-[15:24:50] [Server thread/INFO]: /spawnpoint [<targets>]
-[15:24:50] [Server thread/INFO]: /spectate [<target>]
-[15:24:50] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (under|<respectTeams>)
-[15:24:50] [Server thread/INFO]: /stop
-[15:24:50] [Server thread/INFO]: /stopsound <targets> [*|ambient|block|hostile|master|music|neutral|player|record|voice|weather]
-[15:24:50] [Server thread/INFO]: /summon <entity> [<pos>]
-[15:24:50] [Server thread/INFO]: /tag <targets> (add|list|remove)
-[15:24:50] [Server thread/INFO]: /team (add|empty|join|leave|list|modify|remove)
-[15:24:50] [Server thread/INFO]: /teammsg <message>
-[15:24:50] [Server thread/INFO]: /teleport (<destination>|<location>|<targets>)
-[15:24:50] [Server thread/INFO]: /tell -> msg
-[15:24:50] [Server thread/INFO]: /tellraw <targets> <message>
-[15:24:50] [Server thread/INFO]: /time (add|query|set)
-[15:24:50] [Server thread/INFO]: /title <targets> (actionbar|clear|reset|subtitle|times|title)
-[15:24:50] [Server thread/INFO]: /tm -> teammsg
-[15:24:50] [Server thread/INFO]: /tp -> teleport
-[15:24:50] [Server thread/INFO]: /trigger <objective> [add|set]
-[15:24:50] [Server thread/INFO]: /w -> msg
-[15:24:50] [Server thread/INFO]: /weather (clear|rain|thunder)
-[15:24:50] [Server thread/INFO]: /whitelist (add|list|off|on|reload|remove)
-[15:24:50] [Server thread/INFO]: /worldborder (add|center|damage|get|set|warning)
-[15:24:50] [Server thread/INFO]: /xp -> experience
-[15:25:52] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[15:25:52] [Server thread/INFO]: ...ence query<--[HERE]
-[15:26:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[15:28:10] [Server thread/INFO]: abihido[/127.0.0.1:61416] logged in with entity id 4528 at (205.96478330491118, 64.0, -405.162872995913)
-[15:28:10] [Server thread/INFO]: abihido joined the game
-[15:29:03] [Server thread/INFO]: <abihido> hola xd
-[15:29:09] [Server thread/INFO]: <mmolinaf> holi
-[15:29:14] [Server thread/INFO]: <oruat> ola
-[15:29:36] [Server thread/INFO]: <oruat> tons
-[15:29:42] [Server thread/INFO]: <oruat> q nivel eres owo
-[15:29:48] [Server thread/INFO]: <oruat> eso que
-[15:29:50] [Server thread/INFO]: <abihido> 10
-[15:29:54] [Server thread/INFO]: <abihido> jajajaja
-[15:29:55] [Server thread/INFO]: <oruat> what
-[15:29:59] [Server thread/INFO]: <abihido> esmeraldas
-[15:30:08] [Server thread/INFO]: <abihido> las gane con los aldeanos
-[15:30:15] [Server thread/INFO]: <oruat> :0
-[15:30:26] [Server thread/INFO]: <oruat> bueno no encantes nada me faltan 10 Y_Y
-[15:31:01] [Server thread/INFO]: /experience add <targets> <amount> [levels|points]
-[15:31:01] [Server thread/INFO]: /experience query <targets> (levels|points)
-[15:31:01] [Server thread/INFO]: /experience set <targets> <amount> [levels|points]
-[15:31:05] [Server thread/INFO]: <oruat> nada o sea pica o pala u_u
-[15:31:28] [Server thread/INFO]: Gave 30 experience levels to oruat
-[15:31:35] [Server thread/INFO]: <oruat> whattafucj
-[15:31:48] [Server thread/INFO]: <oruat> gracias dios
-[15:31:48] [Server thread/INFO]: <abihido> here come the money...
-[15:33:55] [Server thread/INFO]: Set the time to 2000
-[15:34:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[15:35:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6317ms or 126 ticks behind
-[15:35:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10000ms or 200 ticks behind
-[15:35:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4924ms or 98 ticks behind
-[15:36:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7791ms or 155 ticks behind
-[15:36:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6834ms or 136 ticks behind
-[15:36:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6847ms or 136 ticks behind
-[15:36:52] [Server thread/INFO]: <mmolinaf> alguno me quiere regalar un pico de hierro
-[15:36:59] [Server thread/INFO]: <oruat> voy
-[15:37:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6624ms or 132 ticks behind
-[15:37:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6864ms or 137 ticks behind
-[15:37:43] [Server thread/INFO]: <mmolinaf> gacha
-[15:37:50] [Server thread/INFO]: <mmolinaf> <3
-[15:37:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4485ms or 89 ticks behind
-[15:38:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6058ms or 121 ticks behind
-[15:38:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7440ms or 148 ticks behind
-[15:38:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5858ms or 117 ticks behind
-[15:39:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7266ms or 145 ticks behind
-[15:39:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4944ms or 98 ticks behind
-[15:39:53] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/6896, l='ServerLevel[world]', x=188.20, y=54.00, z=-267.65]
-[15:39:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3700ms or 74 ticks behind
-[15:40:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5672ms or 113 ticks behind
-[15:40:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5307ms or 106 ticks behind
-[15:40:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4025ms or 80 ticks behind
-[15:41:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6187ms or 123 ticks behind
-[15:41:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5312ms or 106 ticks behind
-[15:42:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7578ms or 151 ticks behind
-[15:42:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7838ms or 156 ticks behind
-[15:42:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6921ms or 138 ticks behind
-[15:43:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7330ms or 146 ticks behind
-[15:43:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7552ms or 151 ticks behind
-[15:43:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6564ms or 131 ticks behind
-[15:44:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7576ms or 151 ticks behind
-[15:44:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5435ms or 108 ticks behind
-[15:46:17] [Server thread/INFO]: mmolinaf lost connection: Timed out
-[15:46:17] [Server thread/INFO]: mmolinaf left the game
-[15:47:08] [Server thread/INFO]: mmolinaf[/25.100.210.49:58722] logged in with entity id 8465 at (130.39749399561646, 63.0, -355.88288171975637)
-[15:47:08] [Server thread/INFO]: mmolinaf joined the game
-[15:47:31] [Server thread/WARN]: mmolinaf moved too quickly! 0.6034986013243611,0.0,10.133261514490187
-[15:47:42] [Server thread/INFO]: <mmolinaf> a mimir
-[15:49:08] [Server thread/INFO]: <oruat> em
-[15:49:17] [Server thread/INFO]: <oruat> tengo insomnio
-[15:49:24] [Server thread/INFO]: <mmolinaf> jajajajaj boba
-[15:50:22] [Server thread/INFO]: <abihido> mimido
-[15:50:41] [Server thread/INFO]: <mmolinaf> al fin si o ño
-[15:50:43] [Server thread/INFO]: <oruat> x2
-[15:51:15] [Server thread/INFO]: <oruat> pero e
-[15:51:17] [Server thread/INFO]: <oruat> ajajaja
-[15:51:32] [Server thread/INFO]: <mmolinaf> bueno me acoste
-[15:51:49] [Server thread/INFO]: abihido lost connection: Disconnected
-[15:51:49] [Server thread/INFO]: abihido left the game
-[15:52:01] [Server thread/INFO]: <oruat> se aburrio xd
-[15:52:23] [Server thread/INFO]: mmolinaf lost connection: Timed out
-[15:52:23] [Server thread/INFO]: mmolinaf left the game
-[15:52:40] [Server thread/INFO]: mmolinaf[/25.100.210.49:58734] logged in with entity id 9607 at (105.52975743918662, 70.0, -330.41783642396183)
-[15:52:40] [Server thread/INFO]: mmolinaf joined the game
-[15:53:37] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/9853, l='ServerLevel[world]', x=101.86, y=64.00, z=-419.65]
-[15:53:37] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/9853, l='ServerLevel[world]', x=101.86, y=64.00, z=-419.65]
-[16:01:27] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/11411, l='ServerLevel[world]', x=105.08, y=64.00, z=-417.82]
-[16:01:37] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/11448, l='ServerLevel[world]', x=189.94, y=54.00, z=-268.80]
-[16:03:00] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/11713, l='ServerLevel[world]', x=105.57, y=64.00, z=-415.49]
-[16:03:24] [Server thread/WARN]: mmolinaf moved too quickly! 0.8237923852409494,7.0,-7.128592389180881
-[16:03:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18652ms or 373 ticks behind
-[16:07:06] [Server thread/INFO]: oruat lost connection: Disconnected
-[16:07:06] [Server thread/INFO]: oruat left the game
-[16:13:29] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/13241, l='ServerLevel[world]', x=105.11, y=64.00, z=-415.30]
-[16:17:13] [Server thread/INFO]: mmolinaf lost connection: Disconnected
-[16:17:13] [Server thread/INFO]: mmolinaf left the game
-[16:17:38] [Server thread/INFO]: Stopping the server
-[16:17:38] [Server thread/INFO]: Stopping server
-[16:17:38] [Server thread/INFO]: Saving players
-[16:17:38] [Server thread/INFO]: Saving worlds
-[16:17:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[16:17:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:17:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[16:17:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:17:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[16:17:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:17:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:17:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:17:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:22:15] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[18:22:16] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:22:16] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:22:16] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:22:16] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:22:16] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:22:16] [main/INFO]: Reloading ResourceManager: Default
+[18:22:17] [Worker-Main-12/INFO]: Loaded 7 recipes
+[18:22:18] [Worker-Main-12/INFO]: Loaded 927 advancements
+[18:22:20] [Server thread/INFO]: Starting minecraft server version 1.16.3
+[18:22:20] [Server thread/INFO]: Loading properties
+[18:22:20] [Server thread/INFO]: Default game type: SURVIVAL
+[18:22:20] [Server thread/INFO]: Generating keypair
+[18:22:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:22:20] [Server thread/INFO]: Using default channel type
+[18:22:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:22:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:22:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:22:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:22:23] [Server thread/INFO]: Preparing level "world"
+[18:22:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:22:25] [Server thread/INFO]: Preparing spawn area: 0%
+[18:22:25] [Server thread/INFO]: Preparing spawn area: 0%
+[18:22:25] [Server thread/INFO]: Preparing spawn area: 0%
+[18:22:25] [Server thread/INFO]: Preparing spawn area: 0%
+[18:22:25] [Server thread/INFO]: Preparing spawn area: 0%
+[18:22:26] [Server thread/INFO]: Preparing spawn area: 0%
+[18:22:26] [Server thread/INFO]: Preparing spawn area: 0%
+[18:22:27] [Server thread/INFO]: Preparing spawn area: 83%
+[18:22:28] [Server thread/INFO]: Time elapsed: 5141 ms
+[18:22:28] [Server thread/INFO]: Done (5.485s)! For help, type "help"
+[18:22:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[18:22:32] [Server thread/INFO]: oruat[/127.0.0.1:56698] logged in with entity id 348 at (83.69999998807907, 11.0, -451.2920699667083)
+[18:22:32] [Server thread/INFO]: oruat joined the game
+[18:22:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2923ms or 58 ticks behind
+[18:29:04] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/1532, l='ServerLevel[world]', x=105.55, y=64.00, z=-418.87]
+[18:31:46] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/1890, l='ServerLevel[world]', x=104.21, y=64.00, z=-419.48]
+[19:04:02] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/5680, l='ServerLevel[world]', x=100.83, y=64.00, z=-414.83]
+[19:15:01] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/7661, l='ServerLevel[world]', x=102.06, y=64.00, z=-419.69]
+[19:20:06] [Server thread/INFO]: oruat lost connection: Disconnected
+[19:20:06] [Server thread/INFO]: oruat left the game
+[19:20:15] [Server thread/INFO]: Stopping the server
+[19:20:15] [Server thread/INFO]: Stopping server
+[19:20:15] [Server thread/INFO]: Saving players
+[19:20:15] [Server thread/INFO]: Saving worlds
+[19:20:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:20:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:20:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19:20:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:20:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19:20:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:20:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:20:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:20:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
