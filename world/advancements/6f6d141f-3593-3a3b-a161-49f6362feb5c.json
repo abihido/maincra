@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2020-11-05 21:10:46 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2020-11-03 12:17:38 -0500"
@@ -338,6 +344,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2020-10-31 21:17:28 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2020-11-05 19:11:57 -0500"
     },
     "done": true
   },
@@ -545,6 +557,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2020-11-05 20:05:26 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-10-31 18:56:15 -0500"
@@ -580,14 +598,22 @@
       "minecraft:pillager": "2020-10-31 23:19:15 -0500",
       "minecraft:skeleton": "2020-10-29 19:57:44 -0500",
       "minecraft:creeper": "2020-11-01 13:35:32 -0500",
+      "minecraft:husk": "2020-11-05 22:03:19 -0500",
       "minecraft:cave_spider": "2020-11-01 13:25:01 -0500",
-      "minecraft:zombie": "2020-10-29 20:20:59 -0500"
+      "minecraft:zombie": "2020-10-29 20:20:59 -0500",
+      "minecraft:drowned": "2020-11-05 21:21:06 -0500"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2020-11-01 14:04:55 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2020-11-05 18:56:41 -0500"
     },
     "done": true
   },
@@ -744,6 +770,12 @@
   "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-10-31 22:24:00 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2020-11-05 19:52:34 -0500"
     },
     "done": true
   },
@@ -939,6 +971,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2020-11-05 21:11:38 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2020-10-31 18:29:03 -0500"
@@ -1097,6 +1135,7 @@
       "minecraft:lukewarm_ocean": "2020-10-31 18:51:31 -0500",
       "minecraft:birch_forest_hills": "2020-11-01 16:10:57 -0500",
       "minecraft:wooded_hills": "2020-10-29 18:30:03 -0500",
+      "minecraft:stone_shore": "2020-11-05 21:29:08 -0500",
       "minecraft:swamp": "2020-11-01 15:58:20 -0500",
       "minecraft:savanna": "2020-11-03 11:30:46 -0500",
       "minecraft:plains": "2020-10-29 18:18:15 -0500"
@@ -1106,6 +1145,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-10-31 18:56:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2020-11-05 21:11:38 -0500"
     },
     "done": true
   },
@@ -1324,6 +1369,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2020-10-31 18:55:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2020-11-05 21:10:46 -0500"
     },
     "done": true
   },
@@ -1587,6 +1638,7 @@
       "cooked_beef": "2020-10-29 18:50:40 -0500",
       "porkchop": "2020-10-31 18:41:27 -0500",
       "tropical_fish": "2020-11-03 19:39:47 -0500",
+      "potato": "2020-11-05 22:02:11 -0500",
       "cooked_cod": "2020-10-29 19:52:13 -0500",
       "mutton": "2020-11-01 16:02:50 -0500",
       "bread": "2020-10-31 21:27:21 -0500",
@@ -1796,7 +1848,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:chicken": "2020-11-01 14:41:42 -0500"
+      "minecraft:chicken": "2020-11-01 14:41:42 -0500",
+      "minecraft:wolf": "2020-11-05 20:02:08 -0500"
     },
     "done": false
   },
@@ -2415,6 +2468,12 @@
   "minecraft:recipes/building_blocks/black_terracotta": {
     "criteria": {
       "has_terracotta": "2020-11-03 12:06:44 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2020-11-05 20:05:26 -0500"
     },
     "done": true
   },

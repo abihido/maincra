@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2020-11-05 19:07:25 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2020-10-29 15:40:32 -0500"
@@ -383,6 +389,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2020-11-05 19:07:25 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2020-10-29 18:41:02 -0500"
@@ -566,6 +578,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2020-10-29 15:40:31 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2020-11-05 20:05:26 -0500"
     },
     "done": true
   },
@@ -877,6 +895,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2020-11-05 21:37:03 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2020-10-31 19:41:36 -0500"
@@ -1135,6 +1159,7 @@
       "minecraft:mountains": "2020-10-29 17:21:02 -0500",
       "minecraft:desert_hills": "2020-10-29 18:24:59 -0500",
       "minecraft:desert": "2020-10-29 15:42:12 -0500",
+      "minecraft:birch_forest": "2020-11-05 21:31:42 -0500",
       "minecraft:deep_lukewarm_ocean": "2020-10-29 17:18:09 -0500",
       "minecraft:beach": "2020-10-29 15:39:18 -0500",
       "minecraft:dark_forest": "2020-11-03 11:31:15 -0500",
@@ -1226,6 +1251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2020-11-05 19:07:25 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-10-29 15:54:19 -0500"
@@ -1307,6 +1338,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2020-10-29 20:46:42 -0500",
+      "minecraft:nether_wastes": "2020-11-05 19:23:58 -0500",
       "minecraft:warped_forest": "2020-10-29 20:47:23 -0500"
     },
     "done": false
@@ -1796,6 +1828,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2020-11-05 19:07:25 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2020-10-29 18:41:02 -0500"
@@ -2054,6 +2092,12 @@
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2020-10-29 17:30:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2020-11-05 19:07:25 -0500"
     },
     "done": true
   },
@@ -2471,6 +2515,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2020-11-05 20:49:02 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2020-10-31 22:33:20 -0500"
@@ -2531,6 +2581,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2020-11-05 20:05:26 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2020-10-29 15:39:47 -0500"
@@ -2570,6 +2626,12 @@
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2020-11-03 12:06:57 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2020-11-05 19:07:25 -0500"
     },
     "done": true
   },

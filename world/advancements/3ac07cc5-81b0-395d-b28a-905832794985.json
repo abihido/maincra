@@ -417,6 +417,7 @@
       "potato": "2020-10-31 21:19:06 -0500",
       "cooked_cod": "2020-10-29 19:04:50 -0500",
       "bread": "2020-10-29 19:00:23 -0500",
+      "cooked_chicken": "2020-11-05 18:33:01 -0500",
       "carrot": "2020-10-31 19:03:29 -0500"
     },
     "done": false
@@ -508,6 +509,12 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2020-10-29 19:28:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2020-11-05 19:11:57 -0500"
     },
     "done": true
   },
@@ -841,6 +848,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2020-11-05 17:41:07 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-10-29 18:35:09 -0500"
@@ -1111,6 +1124,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2020-11-05 19:11:54 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2020-10-29 18:17:31 -0500"
@@ -1198,6 +1217,12 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2020-10-29 20:20:35 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2020-11-05 19:08:41 -0500"
     },
     "done": true
   },
@@ -1681,6 +1706,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2020-11-05 17:41:07 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/warped_planks": {
     "criteria": {
       "has_logs": "2020-11-03 15:35:29 -0500"
@@ -1926,6 +1957,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-10-31 19:58:08 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2020-11-05 19:08:41 -0500"
     },
     "done": true
   },
