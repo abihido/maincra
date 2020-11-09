@@ -1,61 +1,83 @@
-[13:48:45] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[13:48:46] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:48:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:48:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:48:46] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:48:46] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:48:46] [main/INFO]: Reloading ResourceManager: Default
-[13:48:47] [Worker-Main-14/INFO]: Loaded 7 recipes
-[13:48:48] [Worker-Main-14/INFO]: Loaded 927 advancements
-[13:48:51] [Server thread/INFO]: Starting minecraft server version 1.16.3
-[13:48:51] [Server thread/INFO]: Loading properties
-[13:48:51] [Server thread/INFO]: Default game type: SURVIVAL
-[13:48:51] [Server thread/INFO]: Generating keypair
-[13:48:51] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:48:51] [Server thread/INFO]: Using default channel type
-[13:48:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13:48:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[13:48:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13:48:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[13:48:55] [Server thread/INFO]: Preparing level "world"
-[13:48:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:48:58] [Server thread/INFO]: Preparing spawn area: 0%
-[13:48:58] [Server thread/INFO]: Preparing spawn area: 0%
-[13:48:58] [Server thread/INFO]: Preparing spawn area: 0%
-[13:48:58] [Server thread/INFO]: Preparing spawn area: 0%
-[13:48:58] [Server thread/INFO]: Preparing spawn area: 0%
-[13:48:58] [Server thread/INFO]: Preparing spawn area: 0%
-[13:48:59] [Server thread/INFO]: Preparing spawn area: 0%
-[13:48:59] [Server thread/INFO]: Preparing spawn area: 0%
-[13:49:00] [Server thread/INFO]: Preparing spawn area: 83%
-[13:49:02] [Server thread/INFO]: Time elapsed: 6349 ms
-[13:49:02] [Server thread/INFO]: Done (6.560s)! For help, type "help"
-[13:49:54] [Server thread/INFO]: mmolinaf[/127.0.0.1:55826] logged in with entity id 218 at (100.83342430389823, 64.0, -412.92183720277103)
-[13:49:54] [Server thread/INFO]: mmolinaf joined the game
-[13:50:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[13:51:04] [Server thread/WARN]: mmolinaf moved too quickly! 5.9570323390313575,-0.753986201738762,8.097812554260486
-[13:54:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3277ms or 65 ticks behind
-[13:56:26] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/1245, l='ServerLevel[world]', x=101.55, y=64.00, z=-415.03]
-[13:57:51] [Server thread/INFO]: mmolinaf lost connection: Disconnected
-[13:57:51] [Server thread/INFO]: mmolinaf left the game
-[13:59:45] [Server thread/INFO]: mmolinaf[/127.0.0.1:56157] logged in with entity id 1391 at (113.5, 63.0, -323.5)
-[13:59:45] [Server thread/INFO]: mmolinaf joined the game
-[14:00:59] [Server thread/WARN]: mmolinaf moved too quickly! -7.992673689478622,6.5,0.0013919923397338607
-[14:01:19] [Server thread/INFO]: mmolinaf lost connection: Disconnected
-[14:01:19] [Server thread/INFO]: mmolinaf left the game
-[14:01:29] [Server thread/INFO]: Rocktru2000[/25.96.242.221:56044] logged in with entity id 1582 at (169.5, 69.0, -179.5)
-[14:01:29] [Server thread/INFO]: Rocktru2000 joined the game
-[14:01:49] [Server thread/INFO]: mmolinaf[/25.100.210.49:56226] logged in with entity id 1710 at (123.82758524540228, 70.0, -325.24806468655265)
-[14:01:49] [Server thread/INFO]: mmolinaf joined the game
-[14:01:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2152ms or 43 ticks behind
-[14:01:53] [Server thread/INFO]: Rocktru2000 lost connection: Disconnected
-[14:01:53] [Server thread/INFO]: Rocktru2000 left the game
-[14:03:31] [Server thread/INFO]: mmolinaf lost connection: Disconnected
-[14:03:31] [Server thread/INFO]: mmolinaf left the game
-[18:03:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10874647ms or 217492 ticks behind
-[18:19:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 969726ms or 19394 ticks behind
-[18:19:57] [Server thread/INFO]: Stopping the server
-[18:19:57] [Server thread/INFO]: Stopping server
-[18:19:57] [Server thread/INFO]: Saving players
-[18:19:57] [Server thread/INFO]: Saving worlds
-[18:19:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:12:45] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:12:45] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:12:45] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:12:45] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:12:45] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:12:45] [main/INFO]: Reloading ResourceManager: Default
+[14:12:47] [Worker-Main-14/INFO]: Loaded 7 recipes
+[14:12:49] [Worker-Main-14/INFO]: Loaded 927 advancements
+[14:12:55] [Server thread/INFO]: Starting minecraft server version 1.16.3
+[14:12:55] [Server thread/INFO]: Loading properties
+[14:12:55] [Server thread/INFO]: Default game type: SURVIVAL
+[14:12:55] [Server thread/INFO]: Generating keypair
+[14:12:56] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:12:56] [Server thread/INFO]: Using default channel type
+[14:13:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:13:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:13:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:13:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:13:04] [Server thread/INFO]: Preparing level "world"
+[14:13:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:13:10] [Server thread/INFO]: Preparing spawn area: 0%
+[14:13:10] [Server thread/INFO]: Preparing spawn area: 0%
+[14:13:10] [Server thread/INFO]: Preparing spawn area: 0%
+[14:13:10] [Server thread/INFO]: Preparing spawn area: 0%
+[14:13:11] [Server thread/INFO]: Preparing spawn area: 0%
+[14:13:11] [Server thread/INFO]: Preparing spawn area: 0%
+[14:13:11] [Server thread/INFO]: Preparing spawn area: 0%
+[14:13:11] [Server thread/INFO]: Preparing spawn area: 0%
+[14:13:11] [Server thread/INFO]: Preparing spawn area: 0%
+[14:13:11] [Server thread/INFO]: Preparing spawn area: 0%
+[14:13:11] [Server thread/INFO]: Preparing spawn area: 0%
+[14:13:11] [Server thread/INFO]: Preparing spawn area: 0%
+[14:13:11] [Server thread/INFO]: Preparing spawn area: 0%
+[14:13:11] [Server thread/INFO]: Preparing spawn area: 0%
+[14:13:14] [Server thread/INFO]: Preparing spawn area: 0%
+[14:13:14] [Server thread/INFO]: Preparing spawn area: 0%
+[14:13:14] [Server thread/INFO]: Preparing spawn area: 0%
+[14:13:15] [Server thread/INFO]: Preparing spawn area: 0%
+[14:13:15] [Server thread/INFO]: Preparing spawn area: 0%
+[14:13:15] [Server thread/INFO]: Preparing spawn area: 0%
+[14:13:15] [Server thread/INFO]: Preparing spawn area: 0%
+[14:13:15] [Server thread/INFO]: Preparing spawn area: 95%
+[14:13:29] [Server thread/INFO]: Time elapsed: 23961 ms
+[14:13:29] [Server thread/INFO]: Done (24.831s)! For help, type "help"
+[14:13:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2334ms or 46 ticks behind
+[14:13:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5966ms or 119 ticks behind
+[14:18:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6619ms or 132 ticks behind
+[14:19:38] [Server thread/INFO]: mmolinaf[/25.100.210.49:58067] logged in with entity id 276 at (124.5588721616656, 70.0, -324.2414466808228)
+[14:19:38] [Server thread/INFO]: mmolinaf joined the game
+[14:19:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5101ms or 102 ticks behind
+[14:20:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 41289ms or 825 ticks behind
+[14:21:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2101ms or 42 ticks behind
+[14:21:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8333ms or 166 ticks behind
+[14:24:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2441ms or 48 ticks behind
+[14:31:50] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/2052, l='ServerLevel[world]', x=105.92, y=64.00, z=-419.05]
+[14:38:10] [Server thread/INFO]: Unknown item 'minecraft:diamons'
+[14:38:10] [Server thread/INFO]: ... mmolinaf diamons<--[HERE]
+[14:38:15] [Server thread/INFO]: Unknown item 'minecraft:diamonds'
+[14:38:15] [Server thread/INFO]: ... mmolinaf diamonds<--[HERE]
+[15:05:20] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/6654, l='ServerLevel[world]', x=101.86, y=64.00, z=-419.38]
+[15:11:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2157ms or 43 ticks behind
+[15:14:29] [Server thread/INFO]: mmolinaf lost connection: Disconnected
+[15:14:29] [Server thread/INFO]: mmolinaf left the game
+[15:21:42] [Server thread/INFO]: mmolinaf[/25.100.210.49:58240] logged in with entity id 7873 at (131.49450940993484, 63.0, -317.07077591643576)
+[15:21:42] [Server thread/INFO]: mmolinaf joined the game
+[15:24:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[15:26:44] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/8731, l='ServerLevel[world]', x=101.86, y=64.00, z=-419.38]
+[15:33:50] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/9989, l='ServerLevel[world]', x=101.31, y=64.00, z=-419.55]
+[15:49:28] [Server thread/INFO]: mmolinaf lost connection: Disconnected
+[15:49:28] [Server thread/INFO]: mmolinaf left the game
+[15:49:51] [Server thread/INFO]: Stopping the server
+[15:49:51] [Server thread/INFO]: Stopping server
+[15:49:51] [Server thread/INFO]: Saving players
+[15:49:51] [Server thread/INFO]: Saving worlds
+[15:49:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:49:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:49:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15:49:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:49:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15:49:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:49:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:49:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:49:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
