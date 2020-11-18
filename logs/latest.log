@@ -1,489 +1,68 @@
-[21:46:44] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[21:46:48] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21:46:48] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:46:48] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:46:48] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21:46:48] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:46:48] [main/INFO]: Reloading ResourceManager: Default
-[21:46:52] [Worker-Main-11/INFO]: Loaded 7 recipes
-[21:46:54] [Worker-Main-11/INFO]: Loaded 927 advancements
-[21:47:01] [Server thread/INFO]: Starting minecraft server version 1.16.3
-[21:47:01] [Server thread/INFO]: Loading properties
-[21:47:01] [Server thread/INFO]: Default game type: SURVIVAL
-[21:47:01] [Server thread/INFO]: Generating keypair
-[21:47:02] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:47:03] [Server thread/INFO]: Using default channel type
-[21:47:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:47:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:47:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:47:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:47:16] [Server thread/INFO]: Preparing level "world"
-[21:47:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:47:23] [Server thread/INFO]: Preparing spawn area: 0%
-[21:47:23] [Server thread/INFO]: Preparing spawn area: 0%
-[21:47:24] [Server thread/INFO]: Preparing spawn area: 0%
-[21:47:24] [Server thread/INFO]: Preparing spawn area: 0%
-[21:47:24] [Server thread/INFO]: Preparing spawn area: 0%
-[21:47:24] [Server thread/INFO]: Preparing spawn area: 0%
-[21:47:24] [Server thread/INFO]: Preparing spawn area: 0%
-[21:47:24] [Server thread/INFO]: Preparing spawn area: 0%
-[21:47:24] [Server thread/INFO]: Preparing spawn area: 0%
-[21:47:24] [Server thread/INFO]: Preparing spawn area: 0%
-[21:47:24] [Server thread/INFO]: Preparing spawn area: 0%
-[21:47:24] [Server thread/INFO]: Preparing spawn area: 0%
-[21:47:24] [Server thread/INFO]: Preparing spawn area: 0%
-[21:47:24] [Server thread/INFO]: Preparing spawn area: 0%
-[21:47:26] [Server thread/INFO]: Preparing spawn area: 0%
-[21:47:26] [Server thread/INFO]: Preparing spawn area: 0%
-[21:47:26] [Server thread/INFO]: Preparing spawn area: 0%
-[21:47:26] [Server thread/INFO]: Preparing spawn area: 0%
-[21:47:27] [Server thread/INFO]: Preparing spawn area: 84%
-[21:47:38] [Server thread/INFO]: Time elapsed: 20972 ms
-[21:47:38] [Server thread/INFO]: Done (21.975s)! For help, type "help"
-[21:47:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2991ms or 59 ticks behind
-[21:53:23] [Server thread/INFO]: mateo uwu[/25.100.203.243:55447] logged in with entity id 198 at (163.47225993928686, 65.0, -307.4175716809158)
-[21:53:23] [Server thread/INFO]: mateo uwu joined the game
-[21:53:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2966ms or 59 ticks behind
-[21:53:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12919ms or 258 ticks behind
-[21:54:55] [Server thread/INFO]: PacoAndy[/25.10.61.146:62227] logged in with entity id 622 at (170.5, 67.0, -189.5)
-[21:54:55] [Server thread/INFO]: PacoAndy joined the game
-[21:55:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[21:55:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[21:55:29] [Server thread/INFO]: <PacoAndy> Holi, soy Box
-[21:55:41] [Server thread/INFO]: <mateo uwu> :, guenas
-[21:55:44] [Server thread/INFO]: <mateo uwu> :v
-[21:56:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2203ms or 44 ticks behind
-[21:56:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2810ms or 56 ticks behind
-[21:56:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[21:57:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[21:58:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[21:58:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2972ms or 59 ticks behind
-[21:58:39] [Server thread/INFO]: Set the time to 2000
-[22:01:22] [Server thread/INFO]: PacoAndy has made the advancement [Stone Age]
-[22:02:09] [Server thread/INFO]: PacoAndy has made the advancement [Getting an Upgrade]
-[22:02:24] [Server thread/INFO]: mmolinaf[/25.100.210.49:54724] logged in with entity id 2479 at (115.16102591800272, 70.0, -323.0140515503238)
-[22:02:24] [Server thread/INFO]: mmolinaf joined the game
-[22:02:40] [Server thread/INFO]: mmolinaf lost connection: Timed out
-[22:02:40] [Server thread/INFO]: mmolinaf left the game
-[22:02:48] [Server thread/INFO]: mmolinaf[/25.100.210.49:54728] logged in with entity id 2726 at (115.16102591800272, 70.0, -323.0140515503238)
-[22:02:48] [Server thread/INFO]: mmolinaf joined the game
-[22:03:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[22:03:55] [Server thread/INFO]: mmolinaf lost connection: Disconnected
-[22:03:55] [Server thread/INFO]: mmolinaf left the game
-[22:04:05] [Server thread/INFO]: mmolinaf[/25.100.210.49:54733] logged in with entity id 3341 at (183.08050525537007, 64.0, -269.07874905525244)
-[22:04:05] [Server thread/INFO]: mmolinaf joined the game
-[22:04:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2202ms or 44 ticks behind
-[22:04:50] [Server thread/INFO]: mmolinaf lost connection: Timed out
-[22:04:50] [Server thread/INFO]: mmolinaf left the game
-[22:05:01] [Server thread/INFO]: mmolinaf[/25.100.210.49:54737] logged in with entity id 3763 at (149.12203111604526, 64.0, -312.67210606492193)
-[22:05:01] [Server thread/INFO]: mmolinaf joined the game
-[22:05:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
-[22:05:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4292ms or 85 ticks behind
-[22:05:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12826ms or 256 ticks behind
-[22:06:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
-[22:06:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
-[22:07:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[22:07:42] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=529, y=64, z=-127} fx{x=529, y=62, z=-128}
-[22:07:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[22:08:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[22:08:16] [Server thread/INFO]: abihido[/127.0.0.1:57118] logged in with entity id 5280 at (174.45893148358707, 77.0, -126.56190538723074)
-[22:08:16] [Server thread/INFO]: abihido joined the game
-[22:09:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 38766ms or 775 ticks behind
-[22:09:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26980ms or 539 ticks behind
-[22:10:18] [Server thread/INFO]: Set the time to 2000
-[22:10:18] [Server thread/WARN]: PacoAndy moved too quickly! 0.8930011552414499,1.1767592750642422,10.056827078794662
-[22:10:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 52513ms or 1050 ticks behind
-[22:11:20] [Server thread/INFO]: abihido was fireballed by Ghast
-[22:11:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 47869ms or 957 ticks behind
-[22:12:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6780ms or 135 ticks behind
-[22:12:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12067ms or 241 ticks behind
-[22:13:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7886ms or 157 ticks behind
-[22:13:20] [Server thread/INFO]: PacoAndy has made the advancement [Monster Hunter]
-[22:13:21] [Server thread/INFO]: PacoAndy has made the advancement [Acquire Hardware]
-[22:13:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5669ms or 113 ticks behind
-[22:13:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4737ms or 94 ticks behind
-[22:14:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7838ms or 156 ticks behind
-[22:14:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5049ms or 100 ticks behind
-[22:14:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4787ms or 95 ticks behind
-[22:15:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5706ms or 114 ticks behind
-[22:15:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5589ms or 111 ticks behind
-[22:15:33] [Server thread/INFO]: PacoAndy has made the advancement [Suit Up]
-[22:15:46] [Server thread/INFO]: PacoAndy has made the advancement [Isn't It Iron Pick]
-[22:15:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6088ms or 121 ticks behind
-[22:16:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6878ms or 137 ticks behind
-[22:16:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5918ms or 118 ticks behind
-[22:16:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7558ms or 151 ticks behind
-[22:17:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6507ms or 130 ticks behind
-[22:17:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4962ms or 99 ticks behind
-[22:17:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3868ms or 77 ticks behind
-[22:18:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4858ms or 97 ticks behind
-[22:18:26] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/7564, l='ServerLevel[world]', x=101.23, y=64.00, z=-416.49]
-[22:18:26] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/7564, l='ServerLevel[world]', x=101.23, y=64.00, z=-416.49]
-[22:19:04] [Server thread/INFO]: mateo uwu lost connection: Disconnected
-[22:19:04] [Server thread/INFO]: mateo uwu left the game
-[22:19:04] [Server thread/INFO]: PacoAndy lost connection: Disconnected
-[22:19:04] [Server thread/INFO]: PacoAndy left the game
-[22:19:04] [Server thread/INFO]: mmolinaf lost connection: Disconnected
-[22:19:04] [Server thread/INFO]: mmolinaf left the game
-[22:19:04] [Server thread/INFO]: abihido lost connection: Disconnected
-[22:19:04] [Server thread/INFO]: abihido left the game
-[22:19:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 34505ms or 690 ticks behind
-[22:19:10] [Server thread/INFO]: PacoAndy[/25.10.61.146:62275] logged in with entity id 7578 at (530.5926057290519, 42.0, 116.03979571500962)
-[22:19:10] [Server thread/INFO]: PacoAndy joined the game
-[22:19:13] [Server thread/INFO]: mateo uwu[/25.100.203.243:55522] logged in with entity id 7603 at (221.166788102752, 78.0, -391.703488107877)
-[22:19:13] [Server thread/INFO]: mateo uwu joined the game
-[22:19:28] [Server thread/INFO]: abihido[/127.0.0.1:57155] logged in with entity id 7811 at (194.69999998807907, 95.0, -418.5582913843908)
-[22:19:28] [Server thread/INFO]: abihido joined the game
-[22:19:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
-[22:19:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3056ms or 61 ticks behind
-[22:20:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
-[22:20:23] [Server thread/INFO]: daniel19066[/25.0.0.60:49876] logged in with entity id 8024 at (92.2730483847811, 64.0, -398.69046549604394)
-[22:20:23] [Server thread/INFO]: daniel19066 joined the game
-[22:20:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5805ms or 116 ticks behind
-[22:21:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9784ms or 195 ticks behind
-[22:21:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6899ms or 137 ticks behind
-[22:21:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7735ms or 154 ticks behind
-[22:22:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6449ms or 128 ticks behind
-[22:22:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6078ms or 121 ticks behind
-[22:22:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5228ms or 104 ticks behind
-[22:23:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3985ms or 79 ticks behind
-[22:23:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3625ms or 72 ticks behind
-[22:23:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4036ms or 80 ticks behind
-[22:24:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3809ms or 76 ticks behind
-[22:24:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7258ms or 145 ticks behind
-[22:24:44] [Server thread/INFO]: PacoAndy has made the advancement [Not Today, Thank You]
-[22:24:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8720ms or 174 ticks behind
-[22:25:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13089ms or 261 ticks behind
-[22:25:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8774ms or 175 ticks behind
-[22:26:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13019ms or 260 ticks behind
-[22:26:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8489ms or 169 ticks behind
-[22:26:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7993ms or 159 ticks behind
-[22:27:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5615ms or 112 ticks behind
-[22:27:26] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/10423, l='ServerLevel[world]', x=188.74, y=54.00, z=-268.06]
-[22:27:26] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/10423, l='ServerLevel[world]', x=188.74, y=54.00, z=-268.06]
-[22:27:26] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/10423, l='ServerLevel[world]', x=188.74, y=54.00, z=-268.06]
-[22:27:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6519ms or 130 ticks behind
-[22:27:45] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/10479, l='ServerLevel[world]', x=100.83, y=64.00, z=-416.28]
-[22:28:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7272ms or 145 ticks behind
-[22:28:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7226ms or 144 ticks behind
-[22:28:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5591ms or 111 ticks behind
-[22:29:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11026ms or 220 ticks behind
-[22:29:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10092ms or 201 ticks behind
-[22:29:47] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/10982, l='ServerLevel[world]', x=106.13, y=64.00, z=-419.02]
-[22:30:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11466ms or 229 ticks behind
-[22:30:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13119ms or 262 ticks behind
-[22:31:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15963ms or 319 ticks behind
-[22:31:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11582ms or 231 ticks behind
-[22:31:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10343ms or 206 ticks behind
-[22:32:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8594ms or 171 ticks behind
-[22:32:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8485ms or 169 ticks behind
-[22:33:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7836ms or 156 ticks behind
-[22:33:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7159ms or 143 ticks behind
-[22:33:44] [Server thread/INFO]: daniel19066 lost connection: Disconnected
-[22:33:44] [Server thread/INFO]: daniel19066 left the game
-[22:33:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7980ms or 159 ticks behind
-[22:34:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5135ms or 102 ticks behind
-[22:34:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4372ms or 87 ticks behind
-[22:34:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5310ms or 106 ticks behind
-[22:35:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6253ms or 125 ticks behind
-[22:35:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4293ms or 85 ticks behind
-[22:35:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4765ms or 95 ticks behind
-[22:35:47] [Server thread/INFO]: abihido was blown up by Creeper
-[22:36:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2379ms or 47 ticks behind
-[22:36:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6058ms or 121 ticks behind
-[22:36:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4297ms or 85 ticks behind
-[22:37:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6081ms or 121 ticks behind
-[22:37:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3957ms or 79 ticks behind
-[22:37:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4185ms or 83 ticks behind
-[22:37:53] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/13139, l='ServerLevel[world]', x=102.85, y=64.00, z=-419.68]
-[22:38:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6560ms or 131 ticks behind
-[22:38:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4556ms or 91 ticks behind
-[22:38:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3845ms or 76 ticks behind
-[22:39:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2444ms or 48 ticks behind
-[22:39:04] [Server thread/INFO]: abihido was shot by mateo uwu
-[22:39:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3884ms or 77 ticks behind
-[22:39:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[22:39:46] [Server thread/INFO]: abihido was shot by mateo uwu
-[22:40:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3571ms or 71 ticks behind
-[22:40:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[22:40:33] [Server thread/INFO]: Incorrect argument for command
-[22:40:33] [Server thread/INFO]: ...xperience experience add abihido 30 levels<--[HERE]
-[22:40:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5581ms or 111 ticks behind
-[22:40:41] [Server thread/INFO]: Gave 30 experience levels to abihido
-[22:40:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3281ms or 65 ticks behind
-[22:41:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
-[22:41:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
-[22:41:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2370ms or 47 ticks behind
-[22:42:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[22:42:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[22:43:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
-[22:43:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2293ms or 45 ticks behind
-[22:43:34] [Server thread/INFO]: Gave 30 experience levels to abihido
-[22:43:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4872ms or 97 ticks behind
-[22:44:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10482ms or 209 ticks behind
-[22:44:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2267ms or 45 ticks behind
-[22:44:30] [Server thread/WARN]: PacoAndy moved too quickly! -9.979588388190194,-1.0244240882136921,2.23009858208421
-[22:44:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6722ms or 134 ticks behind
-[22:45:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2675ms or 53 ticks behind
-[22:45:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2418ms or 48 ticks behind
-[22:45:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
-[22:45:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2451ms or 49 ticks behind
-[22:46:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[22:46:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4027ms or 80 ticks behind
-[22:47:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[22:49:18] [Server thread/INFO]: Seed: [4678486561116852035]
-[22:49:40] [Server thread/INFO]: PacoAndy lost connection: Disconnected
-[22:49:40] [Server thread/INFO]: PacoAndy left the game
-[22:50:51] [Server thread/INFO]: mmolinaf[/25.100.210.49:55196] logged in with entity id 16558 at (110.5, 70.0, -324.5)
-[22:50:51] [Server thread/INFO]: mmolinaf joined the game
-[22:51:04] [Server thread/INFO]: Set the time to 2000
-[22:51:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[22:51:57] [Server thread/WARN]: mmolinaf moved too quickly! 1.9028548187600052,0.0,-9.869959864907912
-[22:52:08] [Server thread/WARN]: mmolinaf moved too quickly! 6.8677062542930685,1.252203340253729,-7.263829185049133
-[22:53:25] [Server thread/INFO]: PacoAndy[/25.10.61.146:62392] logged in with entity id 17136 at (216.3350137107864, 59.0, -414.6066645846471)
-[22:53:25] [Server thread/INFO]: PacoAndy joined the game
-[22:53:57] [Server thread/WARN]: mmolinaf moved too quickly! -7.155692633062529,0.0,7.238064255379413
-[22:54:08] [Server thread/INFO]: Teleported PacoAndy to 768.5, 62.0, 32.5
-[22:54:08] [Server thread/WARN]: PacoAndy moved too quickly! 552.3912757182107,4.0,441.98542886445694
-[22:54:08] [Server thread/WARN]: mmolinaf moved too quickly! -2.6282794927412283,0.0,9.753422610868597
-[22:54:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
-[22:54:12] [Server thread/WARN]: mmolinaf moved too quickly! -4.543057211511865,0.0,8.944820524359386
-[22:54:24] [Server thread/WARN]: mmolinaf moved too quickly! -7.94698360642667,6.0,-1.1155134265523543
-[22:54:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6927ms or 138 ticks behind
-[22:54:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7662ms or 153 ticks behind
-[22:55:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9301ms or 186 ticks behind
-[22:55:30] [Server thread/INFO]: Teleported mmolinaf to 768.5, 62.0, 32.5
-[22:55:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6019ms or 120 ticks behind
-[22:56:24] [Server thread/INFO]: mateo uwu lost connection: Disconnected
-[22:56:24] [Server thread/INFO]: mateo uwu left the game
-[22:56:24] [Server thread/INFO]: abihido lost connection: Disconnected
-[22:56:24] [Server thread/INFO]: abihido left the game
-[22:56:24] [Server thread/INFO]: mmolinaf lost connection: Disconnected
-[22:56:24] [Server thread/INFO]: mmolinaf left the game
-[22:56:24] [Server thread/INFO]: PacoAndy lost connection: Disconnected
-[22:56:24] [Server thread/INFO]: PacoAndy left the game
-[22:56:25] [Server thread/INFO]: abihido[/127.0.0.1:57244] logged in with entity id 17839 at (207.61099834379522, 64.0, -407.7592210308384)
-[22:56:25] [Server thread/INFO]: abihido joined the game
-[22:56:25] [Server thread/INFO]: com.mojang.authlib.GameProfile@654221dd[id=<null>,name=PacoAndy,properties={},legacy=false] (/25.10.61.146:62401) lost connection: Disconnected
-[22:56:25] [Server thread/INFO]: mmolinaf[/25.100.210.49:55214] logged in with entity id 17840 at (769.4173326726617, 62.0, 31.363466631070658)
-[22:56:25] [Server thread/INFO]: mmolinaf joined the game
-[22:56:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 47314ms or 946 ticks behind
-[22:57:01] [Server thread/INFO]: mateo uwu[/25.100.203.243:55634] logged in with entity id 17939 at (206.8128616125686, 64.0, -412.0731505637784)
-[22:57:01] [Server thread/INFO]: mateo uwu joined the game
-[22:57:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[22:58:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[22:58:18] [Server thread/INFO]: mateo uwu was shot by abihido
-[22:58:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2422ms or 48 ticks behind
-[22:58:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2810ms or 56 ticks behind
-[22:58:49] [Server thread/WARN]: mmolinaf moved too quickly! -9.277012266255838,2.0013359791121417,3.619537394736554
-[22:59:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3061ms or 61 ticks behind
-[22:59:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3632ms or 72 ticks behind
-[22:59:26] [Server thread/INFO]: mmolinaf lost connection: Timed out
-[22:59:26] [Server thread/INFO]: mmolinaf left the game
-[22:59:37] [Server thread/INFO]: mmolinaf[/25.100.210.49:55221] logged in with entity id 18676 at (771.8986793956824, 64.0, 81.46296580180872)
-[22:59:37] [Server thread/INFO]: mmolinaf joined the game
-[22:59:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[23:00:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
-[23:00:10] [Server thread/WARN]: mmolinaf moved too quickly! -0.5932853577435253,-0.9215999984741217,-10.152564827883324
-[23:00:17] [Server thread/WARN]: mmolinaf moved too quickly! 9.881745184592774,0.0,-1.8262435032977464
-[23:00:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3100ms or 62 ticks behind
-[23:00:24] [Server thread/INFO]: mateo uwu has made the advancement [Tactical Fishing]
-[23:00:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4653ms or 93 ticks behind
-[23:01:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4326ms or 86 ticks behind
-[23:01:05] [Server thread/WARN]: mmolinaf moved too quickly! 9.280028814950924,0.0,4.187797640300715
-[23:01:10] [Server thread/INFO]: PacoAndy[/25.10.61.146:62737] logged in with entity id 19154 at (764.8927352507139, 65.0, 77.02610481196182)
-[23:01:10] [Server thread/INFO]: PacoAndy joined the game
-[23:01:13] [Server thread/WARN]: mmolinaf moved too quickly! -1.1972335327303654,1.0,10.012070138494039
-[23:01:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3225ms or 64 ticks behind
-[23:01:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5440ms or 108 ticks behind
-[23:01:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3014ms or 60 ticks behind
-[23:02:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3005ms or 60 ticks behind
-[23:02:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2359ms or 47 ticks behind
-[23:02:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3671ms or 73 ticks behind
-[23:03:01] [Server thread/WARN]: mmolinaf moved too quickly! 4.559595495599069,0.0,-8.959239186017946
-[23:03:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5164ms or 103 ticks behind
-[23:03:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3986ms or 79 ticks behind
-[23:03:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6066ms or 121 ticks behind
-[23:04:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7689ms or 153 ticks behind
-[23:04:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3390ms or 67 ticks behind
-[23:04:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4520ms or 90 ticks behind
-[23:05:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4105ms or 82 ticks behind
-[23:05:29] [Server thread/INFO]: mateo uwu lost connection: Disconnected
-[23:05:29] [Server thread/INFO]: mateo uwu left the game
-[23:05:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2909ms or 58 ticks behind
-[23:05:37] [Server thread/INFO]: PacoAndy was burnt to a crisp whilst fighting mmolinaf
-[23:05:46] [Server thread/INFO]: PacoAndy lost connection: Disconnected
-[23:05:46] [Server thread/INFO]: PacoAndy left the game
-[23:05:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2145ms or 42 ticks behind
-[23:13:27] [Server thread/WARN]: mmolinaf moved too quickly! -9.34986958252614,-0.8291870918577047,3.7445989699487257
-[23:13:33] [Server thread/WARN]: mmolinaf moved too quickly! 2.572008429935636,2.0554624345250403,9.730691767543064
-[23:13:53] [Server thread/INFO]: mmolinaf was slain by Husk
-[23:14:01] [Server thread/INFO]: mmolinaf lost connection: Disconnected
-[23:14:01] [Server thread/INFO]: mmolinaf left the game
-[23:14:08] [Server thread/INFO]: mmolinaf[/25.100.210.49:55254] logged in with entity id 22052 at (730.1720937101097, 67.0, 98.98147042889828)
-[23:14:08] [Server thread/INFO]: mmolinaf joined the game
-[23:14:24] [Server thread/WARN]: mmolinaf moved too quickly! -8.602008294113944,-1.0,5.448990544607444
-[23:17:52] [Server thread/INFO]: Gave 30 experience levels to abihido
-[23:19:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[23:19:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2986ms or 59 ticks behind
-[23:19:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3154ms or 63 ticks behind
-[23:20:09] [Server thread/INFO]: Set the time to 2000
-[23:21:19] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/23906, l='ServerLevel[world]', x=105.22, y=64.00, z=-419.57]
-[23:21:54] [Server thread/INFO]: mmolinaf lost connection: Timed out
-[23:21:54] [Server thread/INFO]: mmolinaf left the game
-[23:22:02] [Server thread/INFO]: mmolinaf[/25.100.210.49:55274] logged in with entity id 24367 at (630.6625792621068, 69.8500000178814, -43.91047517369111)
-[23:22:02] [Server thread/INFO]: mmolinaf joined the game
-[23:23:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
-[23:24:33] [Server thread/INFO]: mmolinaf lost connection: Timed out
-[23:24:33] [Server thread/INFO]: mmolinaf left the game
-[23:24:40] [Server thread/INFO]: mmolinaf[/25.100.210.49:55279] logged in with entity id 25146 at (652.9681136574059, 66.8500000178814, -58.5485596399114)
-[23:24:41] [Server thread/INFO]: mmolinaf joined the game
-[23:24:45] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/25277, l='ServerLevel[world]', x=105.54, y=64.00, z=-419.59]
-[23:25:11] [Server thread/INFO]: mmolinaf lost connection: Timed out
-[23:25:11] [Server thread/INFO]: mmolinaf left the game
-[23:25:24] [Server thread/INFO]: mmolinaf[/25.100.210.49:55281] logged in with entity id 25415 at (655.9137842719867, 66.8500000178814, -57.6982421875)
-[23:25:24] [Server thread/INFO]: mmolinaf joined the game
-[23:27:21] [Server thread/INFO]: Teleported mmolinaf to 207.5, 62.0, 400.5
-[23:28:04] [Server thread/INFO]: Teleported mmolinaf to 207.5, 62.0, 400.5
-[23:28:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[23:28:04] [Server thread/INFO]: <--[HERE]
-[23:28:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[23:28:04] [Server thread/INFO]: <--[HERE]
-[23:28:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[23:28:04] [Server thread/INFO]: <--[HERE]
-[23:28:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[23:28:04] [Server thread/INFO]: <--[HERE]
-[23:28:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[23:28:05] [Server thread/INFO]: <--[HERE]
-[23:28:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[23:28:05] [Server thread/INFO]: <--[HERE]
-[23:28:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[23:28:05] [Server thread/INFO]: <--[HERE]
-[23:28:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[23:28:05] [Server thread/INFO]: <--[HERE]
-[23:28:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[23:28:05] [Server thread/INFO]: <--[HERE]
-[23:28:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[23:28:05] [Server thread/INFO]: <--[HERE]
-[23:28:06] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[23:28:06] [Server thread/INFO]: <--[HERE]
-[23:28:06] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[23:28:06] [Server thread/INFO]: <--[HERE]
-[23:28:06] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[23:28:06] [Server thread/INFO]: <--[HERE]
-[23:28:06] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[23:28:06] [Server thread/INFO]: <--[HERE]
-[23:28:06] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[23:28:06] [Server thread/INFO]: <--[HERE]
-[23:28:07] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[23:28:07] [Server thread/INFO]: <--[HERE]
-[23:28:07] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[23:28:07] [Server thread/INFO]: <--[HERE]
-[23:28:07] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[23:28:07] [Server thread/INFO]: <--[HERE]
-[23:28:26] [Server thread/WARN]: mmolinaf moved too quickly! 0.5930830131226799,-10.136543925278879,-0.5530818524883898
-[23:28:56] [Server thread/INFO]: mmolinaf drowned
-[23:28:57] [Server thread/FATAL]: Error executing task on Server
-java.lang.NullPointerException: null
-	at zy.b(SourceFile:202) ~[minecraft_server.1.16.3.jar:?]
-	at zs.a(SourceFile:939) ~[minecraft_server.1.16.3.jar:?]
-	at aae.a(SourceFile:467) ~[minecraft_server.1.16.3.jar:?]
-	at aay.a(SourceFile:863) ~[minecraft_server.1.16.3.jar:?]
-	at st.a(SourceFile:122) ~[minecraft_server.1.16.3.jar:?]
-	at st$a.a(SourceFile:56) ~[minecraft_server.1.16.3.jar:?]
-	at ol.a(SourceFile:21) ~[minecraft_server.1.16.3.jar:?]
-	at wb.run(SourceFile:18) ~[minecraft_server.1.16.3.jar:?]
-	at any.c(SourceFile:144) ~[minecraft_server.1.16.3.jar:?]
-	at aoc.c(SourceFile:23) ~[minecraft_server.1.16.3.jar:?]
-	at net.minecraft.server.MinecraftServer.b(SourceFile:758) ~[minecraft_server.1.16.3.jar:?]
-	at net.minecraft.server.MinecraftServer.c(SourceFile:152) ~[minecraft_server.1.16.3.jar:?]
-	at any.y(SourceFile:118) ~[minecraft_server.1.16.3.jar:?]
-	at net.minecraft.server.MinecraftServer.ba(SourceFile:740) ~[minecraft_server.1.16.3.jar:?]
-	at net.minecraft.server.MinecraftServer.y(SourceFile:734) ~[minecraft_server.1.16.3.jar:?]
-	at any.bk(SourceFile:103) ~[minecraft_server.1.16.3.jar:?]
-	at net.minecraft.server.MinecraftServer.x(SourceFile:718) ~[minecraft_server.1.16.3.jar:?]
-	at net.minecraft.server.MinecraftServer.w(SourceFile:671) ~[minecraft_server.1.16.3.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:254) ~[minecraft_server.1.16.3.jar:?]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_251]
-[23:28:59] [Server thread/INFO]: Teleported mmolinaf to 242.5, 62.0, 400.5
-[23:28:59] [Server thread/FATAL]: Error executing task on Server
-java.lang.NullPointerException: null
-	at zy.b(SourceFile:202) ~[minecraft_server.1.16.3.jar:?]
-	at zs.a(SourceFile:939) ~[minecraft_server.1.16.3.jar:?]
-	at aae.a(SourceFile:467) ~[minecraft_server.1.16.3.jar:?]
-	at aay.a(SourceFile:863) ~[minecraft_server.1.16.3.jar:?]
-	at st.a(SourceFile:122) ~[minecraft_server.1.16.3.jar:?]
-	at st$b.a(SourceFile:18) ~[minecraft_server.1.16.3.jar:?]
-	at ol.a(SourceFile:21) ~[minecraft_server.1.16.3.jar:?]
-	at wb.run(SourceFile:18) ~[minecraft_server.1.16.3.jar:?]
-	at any.c(SourceFile:144) ~[minecraft_server.1.16.3.jar:?]
-	at aoc.c(SourceFile:23) ~[minecraft_server.1.16.3.jar:?]
-	at net.minecraft.server.MinecraftServer.b(SourceFile:758) ~[minecraft_server.1.16.3.jar:?]
-	at net.minecraft.server.MinecraftServer.c(SourceFile:152) ~[minecraft_server.1.16.3.jar:?]
-	at any.y(SourceFile:118) ~[minecraft_server.1.16.3.jar:?]
-	at net.minecraft.server.MinecraftServer.ba(SourceFile:740) ~[minecraft_server.1.16.3.jar:?]
-	at net.minecraft.server.MinecraftServer.y(SourceFile:734) ~[minecraft_server.1.16.3.jar:?]
-	at any.bk(SourceFile:103) ~[minecraft_server.1.16.3.jar:?]
-	at net.minecraft.server.MinecraftServer.x(SourceFile:718) ~[minecraft_server.1.16.3.jar:?]
-	at net.minecraft.server.MinecraftServer.w(SourceFile:671) ~[minecraft_server.1.16.3.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:254) ~[minecraft_server.1.16.3.jar:?]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_251]
-[23:29:07] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[23:29:07] [Server thread/INFO]: <--[HERE]
-[23:29:10] [Server thread/INFO]: Teleported mmolinaf to 242.5, 62.0, 400.5
-[23:29:43] [Server thread/WARN]: mmolinaf moved too quickly! -0.1441519318494784,-9.719430876139292,-3.716739516713517
-[23:29:54] [Server thread/INFO]: Teleported mmolinaf to 200.5, 62.0, 427.5
-[23:30:31] [Server thread/INFO]: Set the weather to clear
-[23:31:23] [Server thread/INFO]: Incorrect argument for command
-[23:31:23] [Server thread/INFO]: ... mmolinaf 168 62 - 427<--[HERE]
-[23:31:26] [Server thread/INFO]: Teleported mmolinaf to 168.5, 62.0, -426.5
-[23:31:34] [Server thread/INFO]: mmolinaf suffocated in a wall
-[23:32:03] [Server thread/INFO]: Teleported mmolinaf to 168.5, 62.0, -466.5
-[23:32:17] [Server thread/INFO]: mmolinaf suffocated in a wall
-[23:32:59] [Server thread/INFO]: Teleported mmolinaf to 189.5, 62.0, -466.5
-[23:33:55] [Server thread/INFO]: mmolinaf lost connection: Timed out
-[23:33:55] [Server thread/INFO]: mmolinaf left the game
-[23:35:45] [Server thread/INFO]: Set the weather to clear
-[23:38:20] [Server thread/INFO]: abihido was blown up by Creeper
-[23:40:18] [Server thread/INFO]: mateo uwu[/25.100.203.243:55839] logged in with entity id 29620 at (191.43776646440722, 60.0, -268.69999998807907)
-[23:40:18] [Server thread/INFO]: mateo uwu joined the game
-[23:45:08] [Server thread/INFO]: <mateo uwu> aqui
-[23:45:09] [Server thread/INFO]: <mateo uwu> :v
-[23:46:16] [Server thread/INFO]: mateo uwu has made the advancement [A Throwaway Joke]
-[23:46:50] [Server thread/INFO]: mateo uwu was shot by abihido
-[23:47:45] [Server thread/INFO]: mateo uwu was blown up by Creeper
-[23:48:44] [Server thread/INFO]: mateo uwu was shot by Skeleton
-[23:49:48] [Server thread/INFO]: <mateo uwu> baja la mita
-[23:49:56] [Server thread/INFO]: <mateo uwu> vale te quiere dar con el tridente
-[23:50:00] [Server thread/INFO]: <mateo uwu> te lo quiere dar
-[23:51:07] [Server thread/INFO]: Set the weather to rain & thunder
-[23:51:10] [Server thread/INFO]: mmolinaf[/25.100.210.49:55577] logged in with entity id 31889 at (189.5, 62.0, -466.5)
-[23:51:10] [Server thread/INFO]: mmolinaf joined the game
-[23:51:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[23:51:36] [Server thread/WARN]: mmolinaf moved too quickly! -7.708745853529649,-3.07520089011895,5.608144686182129
-[23:51:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[23:51:47] [Server thread/WARN]: mmolinaf moved too quickly! -2.2712572001638307,-0.2538907259487644,9.919586363757503
-[23:52:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[23:52:25] [Server thread/INFO]: mmolinaf lost connection: Timed out
-[23:52:25] [Server thread/INFO]: mmolinaf left the game
-[23:52:33] [Server thread/INFO]: mmolinaf[/25.100.210.49:55583] logged in with entity id 32144 at (124.93330794608617, 64.0, -395.54605849810116)
-[23:52:33] [Server thread/INFO]: mmolinaf joined the game
-[23:53:05] [Server thread/INFO]: mateo uwu was shot by mmolinaf
-[23:53:13] [Server thread/INFO]: <mateo uwu> </3
-[23:53:37] [Server thread/INFO]: abihido lost connection: Disconnected
-[23:53:37] [Server thread/INFO]: abihido left the game
-[23:53:44] [Server thread/INFO]: Stopping the server
-[23:53:44] [Server thread/INFO]: Stopping server
-[23:53:44] [Server thread/INFO]: Saving players
-[23:53:44] [Server thread/INFO]: mmolinaf lost connection: Internal Exception: java.lang.StackOverflowError
-[23:53:44] [Server thread/INFO]: mmolinaf left the game
-[23:53:44] [Server thread/INFO]: Saving worlds
-[23:53:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:53:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:53:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:53:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:53:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:53:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:53:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:53:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:53:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:12:10] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[18:12:12] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:12:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:12:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:12:12] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:12:12] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:12:12] [main/INFO]: Reloading ResourceManager: Default
+[18:12:13] [Worker-Main-13/INFO]: Loaded 7 recipes
+[18:12:14] [Worker-Main-13/INFO]: Loaded 927 advancements
+[18:12:16] [Server thread/INFO]: Starting minecraft server version 1.16.3
+[18:12:16] [Server thread/INFO]: Loading properties
+[18:12:16] [Server thread/INFO]: Default game type: SURVIVAL
+[18:12:16] [Server thread/INFO]: Generating keypair
+[18:12:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:12:16] [Server thread/INFO]: Using default channel type
+[18:12:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:12:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:12:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:12:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:12:18] [Server thread/INFO]: Preparing level "world"
+[18:12:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:12:20] [Server thread/INFO]: Preparing spawn area: 0%
+[18:12:20] [Server thread/INFO]: Preparing spawn area: 0%
+[18:12:20] [Server thread/INFO]: Preparing spawn area: 0%
+[18:12:20] [Server thread/INFO]: Preparing spawn area: 0%
+[18:12:20] [Server thread/INFO]: Preparing spawn area: 0%
+[18:12:21] [Server thread/INFO]: Preparing spawn area: 0%
+[18:12:21] [Server thread/INFO]: Preparing spawn area: 68%
+[18:12:23] [Server thread/INFO]: Time elapsed: 4770 ms
+[18:12:23] [Server thread/INFO]: Done (4.979s)! For help, type "help"
+[18:12:25] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[18:12:25] [Server thread/INFO]: <--[HERE]
+[18:12:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[18:12:38] [Server thread/INFO]: oruat[/127.0.0.1:52572] logged in with entity id 245 at (174.85678347946978, 78.0, -124.40971970149485)
+[18:12:38] [Server thread/INFO]: oruat joined the game
+[18:12:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5292ms or 105 ticks behind
+[18:13:09] [Server thread/INFO]: oruat lost connection: Disconnected
+[18:13:09] [Server thread/INFO]: oruat left the game
+[18:13:53] [Server thread/INFO]: oruat[/127.0.0.1:52583] logged in with entity id 456 at (171.50070678154876, 78.0, -132.93322346503783)
+[18:13:53] [Server thread/INFO]: oruat joined the game
+[18:14:21] [Server thread/INFO]: oruat was slain by Zombified Piglin
+[18:14:34] [Server thread/INFO]: oruat lost connection: Disconnected
+[18:14:34] [Server thread/INFO]: oruat left the game
+[18:14:37] [Server thread/INFO]: oruat[/127.0.0.1:52591] logged in with entity id 1052 at (93.96269781177675, 63.0, -395.19852202157756)
+[18:14:37] [Server thread/INFO]: oruat joined the game
+[18:22:44] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/2220, l='ServerLevel[world]', x=103.39, y=64.00, z=-415.99]
+[18:32:29] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/3482, l='ServerLevel[world]', x=102.07, y=64.00, z=-419.31]
+[18:32:53] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/3531, l='ServerLevel[world]', x=103.22, y=64.00, z=-418.21]
+[18:34:39] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/3722, l='ServerLevel[world]', x=102.70, y=64.00, z=-419.21]
+[18:57:00] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/6692, l='ServerLevel[world]', x=101.97, y=64.00, z=-415.76]
+[18:59:17] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/6975, l='ServerLevel[world]', x=102.11, y=64.00, z=-420.17]
+[19:06:39] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/8116, l='ServerLevel[world]', x=101.95, y=64.00, z=-418.62]
+[19:06:46] [Server thread/INFO]: oruat lost connection: Disconnected
+[19:07:00] [Server thread/INFO]: oruat left the game
+[19:07:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13336ms or 266 ticks behind
+[19:07:03] [Server thread/INFO]: Stopping the server
+[19:07:03] [Server thread/INFO]: Stopping server
+[19:07:03] [Server thread/INFO]: Saving players
+[19:07:03] [Server thread/INFO]: Saving worlds
+[19:07:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:07:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:07:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19:07:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:07:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19:07:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:07:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:07:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:07:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
