@@ -1,206 +1,244 @@
-[09:10:01] [Server thread/INFO]: oruat[/25.99.45.193:50199] logged in with entity id 41131 at (70.48742024959216, 69.0, -236.40876865580293)
-[09:10:01] [Server thread/INFO]: oruat joined the game
-[09:35:08] [Server thread/INFO]: oruat experienced kinetic energy
-[09:36:31] [Server thread/INFO]: oruat was slain by Piglin
-[09:38:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2735ms or 54 ticks behind
-[09:40:02] [Server thread/INFO]: oruat lost connection: Disconnected
-[09:40:02] [Server thread/INFO]: oruat left the game
-[09:40:11] [Server thread/INFO]: oruat[/25.99.45.193:50287] logged in with entity id 46536 at (97.34100462992056, 112.0, -21.92298595376535)
-[09:40:11] [Server thread/INFO]: oruat joined the game
-[09:42:34] [Server thread/INFO]: oruat was slain by Piglin
-[09:43:18] [Server thread/WARN]: oruat moved too quickly! 18.730887660475673,-0.004982389723082292,-0.9345699782706447
-[09:48:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2478ms or 49 ticks behind
-[09:53:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
-[09:53:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3559ms or 71 ticks behind
-[09:54:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6609ms or 132 ticks behind
-[09:54:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9241ms or 184 ticks behind
-[09:54:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3256ms or 65 ticks behind
-[10:08:31] [Server thread/INFO]: oruat was slain by Enderman
-[10:12:17] [Server thread/INFO]: oruat fell out of the world
-[10:12:18] [Server thread/FATAL]: Error executing task on Server
-java.lang.NullPointerException: null
-	at zy.b(SourceFile:202) ~[minecraft_server.1.16.3.jar:?]
-	at zs.a(SourceFile:939) ~[minecraft_server.1.16.3.jar:?]
-	at aae.a(SourceFile:467) ~[minecraft_server.1.16.3.jar:?]
-	at aay.a(SourceFile:863) ~[minecraft_server.1.16.3.jar:?]
-	at st.a(SourceFile:122) ~[minecraft_server.1.16.3.jar:?]
-	at st$a.a(SourceFile:56) ~[minecraft_server.1.16.3.jar:?]
-	at ol.a(SourceFile:21) ~[minecraft_server.1.16.3.jar:?]
-	at wb.run(SourceFile:18) ~[minecraft_server.1.16.3.jar:?]
-	at any.c(SourceFile:144) ~[minecraft_server.1.16.3.jar:?]
-	at aoc.c(SourceFile:23) ~[minecraft_server.1.16.3.jar:?]
-	at net.minecraft.server.MinecraftServer.b(SourceFile:758) ~[minecraft_server.1.16.3.jar:?]
-	at net.minecraft.server.MinecraftServer.c(SourceFile:152) ~[minecraft_server.1.16.3.jar:?]
-	at any.y(SourceFile:118) ~[minecraft_server.1.16.3.jar:?]
-	at net.minecraft.server.MinecraftServer.ba(SourceFile:740) ~[minecraft_server.1.16.3.jar:?]
-	at net.minecraft.server.MinecraftServer.y(SourceFile:734) ~[minecraft_server.1.16.3.jar:?]
-	at any.bk(SourceFile:103) ~[minecraft_server.1.16.3.jar:?]
-	at net.minecraft.server.MinecraftServer.x(SourceFile:718) ~[minecraft_server.1.16.3.jar:?]
-	at net.minecraft.server.MinecraftServer.w(SourceFile:671) ~[minecraft_server.1.16.3.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:254) ~[minecraft_server.1.16.3.jar:?]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_261]
-[10:19:01] [Server thread/INFO]: oruat was slain by Zombie
-[10:31:55] [Server thread/INFO]: oruat lost connection: Disconnected
-[10:31:55] [Server thread/INFO]: oruat left the game
-[10:32:02] [Server thread/INFO]: oruat[/25.99.45.193:50531] logged in with entity id 63947 at (103.68363849502649, 63.9375, -415.9683486957837)
-[10:32:02] [Server thread/INFO]: oruat joined the game
-[10:35:45] [Server thread/INFO]: oruat lost connection: Disconnected
-[10:35:45] [Server thread/INFO]: oruat left the game
-[11:03:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6594ms or 131 ticks behind
-[13:53:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2218ms or 44 ticks behind
-[14:47:49] [Server thread/INFO]: jsduquema[/25.0.89.220:56354] logged in with entity id 64508 at (66.90136471296317, 69.0, -238.6014501563078)
-[14:47:49] [Server thread/INFO]: jsduquema joined the game
-[15:03:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3198ms or 63 ticks behind
-[15:04:37] [Server thread/WARN]: jsduquema moved too quickly! 17.99749367596587,-2.439032338490698,-0.07761708370989417
-[15:11:35] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/69306, l='ServerLevel[world]', x=300.49, y=1.00, z=-5.30]
-[15:21:21] [Server thread/INFO]: jsduquema lost connection: Disconnected
-[15:21:21] [Server thread/INFO]: jsduquema left the game
-[16:07:39] [Server thread/INFO]: jsduquema[/25.0.89.220:57384] logged in with entity id 69333 at (295.0199458383135, 1.0, -3.224912425927318)
-[16:07:39] [Server thread/INFO]: jsduquema joined the game
-[16:12:50] [Server thread/INFO]: oruat[/25.99.45.193:52459] logged in with entity id 69446 at (102.75713547991394, 64.0, -408.0515796241718)
-[16:12:50] [Server thread/INFO]: oruat joined the game
-[16:13:07] [Server thread/INFO]: <oruat> oli
-[16:13:12] [Server thread/INFO]: <jsduquema> hello
-[16:13:53] [Server thread/INFO]: <jsduquema> tu sabes donde esta la espada de la granja?
-[16:14:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[16:14:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2317ms or 46 ticks behind
-[16:14:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3384ms or 67 ticks behind
-[16:15:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2903ms or 58 ticks behind
-[16:15:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2713ms or 54 ticks behind
-[16:15:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2956ms or 59 ticks behind
-[16:15:45] [Server thread/INFO]: <jsduquema> tengo 80 niveles :c y mi espada no tiene arrasador jaja
-[16:15:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3091ms or 61 ticks behind
-[16:16:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2943ms or 58 ticks behind
-[16:16:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3364ms or 67 ticks behind
-[16:16:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2947ms or 58 ticks behind
-[16:17:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3379ms or 67 ticks behind
-[16:17:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3425ms or 68 ticks behind
-[16:17:32] [Server thread/INFO]: <oruat> aaa es que me mori
-[16:17:35] [Server thread/INFO]: <oruat> yo la tengo
-[16:17:37] [Server thread/INFO]: <oruat> jeje
-[16:17:40] [Server thread/INFO]: <jsduquema> como moriste? jaja
-[16:17:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3744ms or 74 ticks behind
-[16:17:46] [Server thread/INFO]: <oruat> me meti
-[16:17:50] [Server thread/INFO]: <jsduquema> jaja xD f
-[16:17:50] [Server thread/INFO]: <oruat> y me mataron en nada
-[16:18:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3829ms or 76 ticks behind
-[16:18:14] [Server thread/INFO]: <oruat> y es que el portal se daño no?
-[16:18:17] [Server thread/INFO]: <oruat> donde estas
-[16:18:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4814ms or 96 ticks behind
-[16:18:38] [Server thread/INFO]: <jsduquema> te acuerdas que hicimos uno en mi casa? como que no estaban suficientemente lejos y se conectaron y f
-[16:18:43] [Server thread/INFO]: <jsduquema> en la granja jaja
-[16:18:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5026ms or 100 ticks behind
-[16:18:48] [Server thread/INFO]: <oruat> si
-[16:19:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2190ms or 43 ticks behind
-[16:19:30] [Server thread/INFO]: <oruat> ya voy
-[16:19:35] [Server thread/INFO]: <jsduquema> weno
-[16:19:55] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/72937, l='ServerLevel[world]', x=301.02, y=1.00, z=-7.11]
-[16:19:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
-[16:20:26] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/73808, l='ServerLevel[world]', x=301.01, y=1.00, z=-7.12]
-[16:22:26] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/75669, l='ServerLevel[world]', x=301.21, y=1.02, z=-7.35]
-[16:22:26] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/75669, l='ServerLevel[world]', x=301.21, y=1.02, z=-7.35]
-[16:22:43] [Server thread/INFO]: <oruat> detras de ti
-[16:23:01] [Server thread/INFO]: <oruat> dejame
-[16:24:29] [Server thread/INFO]: <jsduquema> que vas a hacer'
-[16:24:32] [Server thread/INFO]: <jsduquema> ?
-[16:24:54] [Server thread/INFO]: <oruat> le estoy mostrando a vale :3
-[16:25:03] [Server thread/INFO]: <jsduquema> que haces jaja
-[16:25:08] [Server thread/INFO]: <jsduquema> mostrando que?
-[16:25:12] [Server thread/INFO]: <jsduquema> oli vale c:
-[16:27:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[16:27:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8008ms or 160 ticks behind
-[16:28:06] [Server thread/INFO]: <oruat> la granja lol
-[16:28:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14153ms or 283 ticks behind
-[16:28:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13114ms or 262 ticks behind
-[16:29:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17455ms or 349 ticks behind
-[16:29:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17132ms or 342 ticks behind
-[16:30:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15925ms or 318 ticks behind
-[16:30:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8911ms or 178 ticks behind
-[16:31:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8954ms or 179 ticks behind
-[16:31:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14276ms or 285 ticks behind
-[16:32:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15849ms or 316 ticks behind
-[16:32:27] [Server thread/INFO]: oruat lost connection: Disconnected
-[16:32:27] [Server thread/INFO]: oruat left the game
-[16:32:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6786ms or 135 ticks behind
-[16:32:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5215ms or 104 ticks behind
-[16:33:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6545ms or 130 ticks behind
-[16:33:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9640ms or 192 ticks behind
-[16:34:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13718ms or 274 ticks behind
-[16:34:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14582ms or 291 ticks behind
-[16:35:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6962ms or 139 ticks behind
-[16:35:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6827ms or 136 ticks behind
-[16:35:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2883ms or 57 ticks behind
-[16:36:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4496ms or 89 ticks behind
-[16:36:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7038ms or 140 ticks behind
-[16:36:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4417ms or 88 ticks behind
-[16:37:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7164ms or 143 ticks behind
-[16:37:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4173ms or 83 ticks behind
-[16:37:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10333ms or 206 ticks behind
-[16:38:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14396ms or 287 ticks behind
-[16:38:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15539ms or 310 ticks behind
-[16:39:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12333ms or 246 ticks behind
-[16:39:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11338ms or 226 ticks behind
-[16:40:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11137ms or 222 ticks behind
-[16:40:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10285ms or 205 ticks behind
-[16:41:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14804ms or 296 ticks behind
-[16:41:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15583ms or 311 ticks behind
-[16:42:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11994ms or 239 ticks behind
-[16:42:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2976ms or 59 ticks behind
-[16:42:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[16:43:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3960ms or 79 ticks behind
-[16:43:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5848ms or 116 ticks behind
-[16:43:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9566ms or 191 ticks behind
-[16:44:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11306ms or 226 ticks behind
-[16:44:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3770ms or 75 ticks behind
-[16:45:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4928ms or 98 ticks behind
-[16:45:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7365ms or 147 ticks behind
-[16:49:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[16:50:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7956ms or 159 ticks behind
-[16:50:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14592ms or 291 ticks behind
-[16:51:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10825ms or 216 ticks behind
-[16:52:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[16:53:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6962ms or 139 ticks behind
-[16:53:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14278ms or 285 ticks behind
-[16:53:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[16:55:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[16:55:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8894ms or 177 ticks behind
-[16:56:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14305ms or 286 ticks behind
-[16:56:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4011ms or 80 ticks behind
-[17:06:56] [Server thread/INFO]: jsduquema lost connection: Disconnected
-[17:06:56] [Server thread/INFO]: jsduquema left the game
-[17:44:24] [Server thread/INFO]: jsduquema[/25.0.89.220:58729] logged in with entity id 102074 at (63.90261256614596, 38.0, -231.2827776671482)
-[17:44:24] [Server thread/INFO]: jsduquema joined the game
-[18:08:15] [Server thread/INFO]: There are 1 of a max of 20 players online: jsduquema
-[18:08:19] [Server thread/INFO]: [Server] hola?
-[18:08:22] [Server thread/INFO]: <jsduquema> hola
-[18:08:29] [Server thread/INFO]: [Server] Que haces?
-[18:08:34] [Server thread/INFO]: <jsduquema> en el end y tu xD
-[18:08:43] [Server thread/INFO]: [Server] haciendo pereza, tego que leer y agg
-[18:09:01] [Server thread/INFO]: <jsduquema> que pereza :c
-[18:09:13] [Server thread/INFO]: [Server] si
-[18:09:23] [Server thread/INFO]: [Server] quiero entrar a terminar la granja :3
-[18:09:29] [Server thread/INFO]: <jsduquema> me avisas c:
-[18:25:39] [Server thread/INFO]: <jsduquema> sigues ahi?
-[18:28:58] [Server thread/INFO]: [Server] dime
-[18:29:14] [Server thread/INFO]: <jsduquema> entras un momento y te muestro que hice ayer que laura me ayudo? jaja
-[18:29:26] [Server thread/INFO]: [Server] otro dia
-[18:29:32] [Server thread/INFO]: [Server] perdon
-[18:29:35] [Server thread/INFO]: <jsduquema> weno tranqui
-[18:33:49] [Server thread/INFO]: jsduquema lost connection: Disconnected
-[18:33:49] [Server thread/INFO]: jsduquema left the game
-[19:12:27] [Server thread/INFO]: oruat[/25.99.45.193:52859] logged in with entity id 109733 at (141.60200267024106, 63.0, -347.3598462314361)
-[19:12:27] [Server thread/INFO]: oruat joined the game
-[19:17:43] [Server thread/INFO]: oruat lost connection: Timed out
-[19:17:43] [Server thread/INFO]: oruat left the game
-[19:17:56] [Server thread/INFO]: oruat[/25.99.45.193:52863] logged in with entity id 110647 at (92.13345816756369, 63.0, -412.6169409961937)
-[19:17:56] [Server thread/INFO]: oruat joined the game
-[19:24:54] [Server thread/INFO]: oruat lost connection: Disconnected
-[19:24:54] [Server thread/INFO]: oruat left the game
-[19:33:52] [Server thread/INFO]: There are 0 of a max of 20 players online: 
-[19:55:21] [Server thread/INFO]: mmolinaf[/25.111.8.38:53646] logged in with entity id 111539 at (13.72964840098092, 52.0, -36.5)
-[19:55:21] [Server thread/INFO]: mmolinaf joined the game
-[19:57:54] [Server thread/INFO]: mmolinaf tried to swim in lava
-[20:09:30] [Server thread/INFO]: oruat[/25.99.45.193:54100] logged in with entity id 113568 at (89.30821827723105, 50.0, -412.13968767767966)
-[20:09:30] [Server thread/INFO]: oruat joined the game
-[20:12:43] [Server thread/INFO]: oruat lost connection: Disconnected
-[20:12:43] [Server thread/INFO]: oruat left the game
+[14:21:13] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:21:13] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:21:13] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:21:13] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:21:13] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:21:13] [main/INFO]: Reloading ResourceManager: Default
+[14:21:14] [Worker-Main-9/INFO]: Loaded 7 recipes
+[14:21:14] [Worker-Main-9/INFO]: Loaded 927 advancements
+[14:21:17] [Server thread/INFO]: Starting minecraft server version 1.16.3
+[14:21:17] [Server thread/INFO]: Loading properties
+[14:21:17] [Server thread/INFO]: Default game type: SURVIVAL
+[14:21:17] [Server thread/INFO]: Generating keypair
+[14:21:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:21:17] [Server thread/INFO]: Using default channel type
+[14:21:19] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:21:19] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:21:19] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:21:19] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:21:19] [Server thread/INFO]: Preparing level "world"
+[14:21:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:21:29] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[14:21:30] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[14:21:30] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[14:21:31] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[14:21:31] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[14:21:32] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[14:21:32] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[14:21:33] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[14:21:33] [Worker-Main-7/INFO]: Preparing spawn area: 1%
+[14:21:34] [Worker-Main-14/INFO]: Preparing spawn area: 1%
+[14:21:34] [Worker-Main-6/INFO]: Preparing spawn area: 1%
+[14:21:35] [Worker-Main-8/INFO]: Preparing spawn area: 1%
+[14:21:35] [Worker-Main-6/INFO]: Preparing spawn area: 1%
+[14:21:36] [Worker-Main-8/INFO]: Preparing spawn area: 1%
+[14:21:36] [Worker-Main-7/INFO]: Preparing spawn area: 4%
+[14:21:37] [Worker-Main-8/INFO]: Preparing spawn area: 4%
+[14:21:37] [Worker-Main-8/INFO]: Preparing spawn area: 6%
+[14:21:38] [Worker-Main-14/INFO]: Preparing spawn area: 6%
+[14:21:38] [Worker-Main-14/INFO]: Preparing spawn area: 6%
+[14:21:39] [Worker-Main-8/INFO]: Preparing spawn area: 6%
+[14:21:39] [Worker-Main-10/INFO]: Preparing spawn area: 6%
+[14:21:40] [Worker-Main-6/INFO]: Preparing spawn area: 6%
+[14:21:40] [Worker-Main-8/INFO]: Preparing spawn area: 9%
+[14:21:41] [Worker-Main-8/INFO]: Preparing spawn area: 9%
+[14:21:41] [Worker-Main-8/INFO]: Preparing spawn area: 9%
+[14:21:42] [Worker-Main-10/INFO]: Preparing spawn area: 9%
+[14:21:42] [Worker-Main-10/INFO]: Preparing spawn area: 9%
+[14:21:43] [Worker-Main-6/INFO]: Preparing spawn area: 9%
+[14:21:43] [Worker-Main-6/INFO]: Preparing spawn area: 11%
+[14:21:44] [Worker-Main-14/INFO]: Preparing spawn area: 11%
+[14:21:44] [Worker-Main-14/INFO]: Preparing spawn area: 11%
+[14:21:45] [Worker-Main-8/INFO]: Preparing spawn area: 11%
+[14:21:45] [Worker-Main-7/INFO]: Preparing spawn area: 11%
+[14:21:46] [Worker-Main-8/INFO]: Preparing spawn area: 11%
+[14:21:46] [Worker-Main-10/INFO]: Preparing spawn area: 15%
+[14:21:47] [Worker-Main-14/INFO]: Preparing spawn area: 15%
+[14:21:47] [Worker-Main-6/INFO]: Preparing spawn area: 15%
+[14:21:48] [Worker-Main-10/INFO]: Preparing spawn area: 15%
+[14:21:48] [Worker-Main-14/INFO]: Preparing spawn area: 15%
+[14:21:49] [Worker-Main-10/INFO]: Preparing spawn area: 18%
+[14:21:49] [Worker-Main-6/INFO]: Preparing spawn area: 18%
+[14:21:50] [Worker-Main-8/INFO]: Preparing spawn area: 18%
+[14:21:50] [Worker-Main-6/INFO]: Preparing spawn area: 18%
+[14:21:51] [Worker-Main-7/INFO]: Preparing spawn area: 18%
+[14:21:51] [Worker-Main-7/INFO]: Preparing spawn area: 18%
+[14:21:52] [Worker-Main-7/INFO]: Preparing spawn area: 18%
+[14:21:52] [Worker-Main-10/INFO]: Preparing spawn area: 18%
+[14:21:53] [Worker-Main-6/INFO]: Preparing spawn area: 23%
+[14:21:53] [Worker-Main-14/INFO]: Preparing spawn area: 23%
+[14:21:54] [Worker-Main-7/INFO]: Preparing spawn area: 23%
+[14:21:54] [Worker-Main-10/INFO]: Preparing spawn area: 23%
+[14:21:55] [Worker-Main-14/INFO]: Preparing spawn area: 23%
+[14:21:55] [Worker-Main-14/INFO]: Preparing spawn area: 25%
+[14:21:56] [Worker-Main-8/INFO]: Preparing spawn area: 25%
+[14:21:56] [Worker-Main-6/INFO]: Preparing spawn area: 25%
+[14:21:57] [Worker-Main-10/INFO]: Preparing spawn area: 25%
+[14:21:57] [Worker-Main-6/INFO]: Preparing spawn area: 25%
+[14:21:58] [Worker-Main-6/INFO]: Preparing spawn area: 25%
+[14:21:58] [Worker-Main-6/INFO]: Preparing spawn area: 25%
+[14:21:59] [Worker-Main-8/INFO]: Preparing spawn area: 25%
+[14:21:59] [Worker-Main-14/INFO]: Preparing spawn area: 25%
+[14:22:00] [Worker-Main-6/INFO]: Preparing spawn area: 32%
+[14:22:00] [Worker-Main-7/INFO]: Preparing spawn area: 32%
+[14:22:01] [Worker-Main-6/INFO]: Preparing spawn area: 32%
+[14:22:01] [Worker-Main-7/INFO]: Preparing spawn area: 32%
+[14:22:02] [Worker-Main-8/INFO]: Preparing spawn area: 35%
+[14:22:02] [Worker-Main-8/INFO]: Preparing spawn area: 35%
+[14:22:03] [Worker-Main-7/INFO]: Preparing spawn area: 35%
+[14:22:03] [Worker-Main-7/INFO]: Preparing spawn area: 35%
+[14:22:04] [Worker-Main-8/INFO]: Preparing spawn area: 36%
+[14:22:04] [Worker-Main-6/INFO]: Preparing spawn area: 37%
+[14:22:05] [Worker-Main-6/INFO]: Preparing spawn area: 37%
+[14:22:05] [Worker-Main-10/INFO]: Preparing spawn area: 37%
+[14:22:06] [Worker-Main-6/INFO]: Preparing spawn area: 37%
+[14:22:08] [Worker-Main-7/INFO]: Preparing spawn area: 37%
+[14:22:08] [Worker-Main-14/INFO]: Preparing spawn area: 37%
+[14:22:08] [Worker-Main-7/INFO]: Preparing spawn area: 37%
+[14:22:08] [Worker-Main-14/INFO]: Preparing spawn area: 42%
+[14:22:10] [Worker-Main-10/INFO]: Preparing spawn area: 43%
+[14:22:10] [Worker-Main-14/INFO]: Preparing spawn area: 43%
+[14:22:10] [Worker-Main-10/INFO]: Preparing spawn area: 43%
+[14:22:10] [Worker-Main-14/INFO]: Preparing spawn area: 46%
+[14:22:10] [Worker-Main-6/INFO]: Preparing spawn area: 46%
+[14:22:11] [Worker-Main-7/INFO]: Preparing spawn area: 46%
+[14:22:12] [Worker-Main-8/INFO]: Preparing spawn area: 47%
+[14:22:12] [Worker-Main-8/INFO]: Preparing spawn area: 47%
+[14:22:13] [Worker-Main-10/INFO]: Preparing spawn area: 49%
+[14:22:13] [Worker-Main-8/INFO]: Preparing spawn area: 49%
+[14:22:13] [Worker-Main-8/INFO]: Preparing spawn area: 50%
+[14:22:14] [Worker-Main-8/INFO]: Preparing spawn area: 51%
+[14:22:15] [Worker-Main-14/INFO]: Preparing spawn area: 51%
+[14:22:15] [Worker-Main-14/INFO]: Preparing spawn area: 51%
+[14:22:16] [Worker-Main-14/INFO]: Preparing spawn area: 54%
+[14:22:16] [Worker-Main-6/INFO]: Preparing spawn area: 54%
+[14:22:16] [Worker-Main-7/INFO]: Preparing spawn area: 55%
+[14:22:17] [Worker-Main-14/INFO]: Preparing spawn area: 56%
+[14:22:17] [Worker-Main-8/INFO]: Preparing spawn area: 58%
+[14:22:18] [Worker-Main-6/INFO]: Preparing spawn area: 58%
+[14:22:18] [Worker-Main-6/INFO]: Preparing spawn area: 59%
+[14:22:19] [Worker-Main-14/INFO]: Preparing spawn area: 60%
+[14:22:19] [Worker-Main-6/INFO]: Preparing spawn area: 61%
+[14:22:20] [Worker-Main-14/INFO]: Preparing spawn area: 62%
+[14:22:20] [Worker-Main-14/INFO]: Preparing spawn area: 64%
+[14:22:21] [Worker-Main-10/INFO]: Preparing spawn area: 65%
+[14:22:21] [Worker-Main-7/INFO]: Preparing spawn area: 66%
+[14:22:22] [Worker-Main-8/INFO]: Preparing spawn area: 68%
+[14:22:22] [Worker-Main-6/INFO]: Preparing spawn area: 69%
+[14:22:23] [Worker-Main-7/INFO]: Preparing spawn area: 70%
+[14:22:23] [Worker-Main-10/INFO]: Preparing spawn area: 71%
+[14:22:24] [Worker-Main-6/INFO]: Preparing spawn area: 71%
+[14:22:24] [Worker-Main-7/INFO]: Preparing spawn area: 72%
+[14:22:25] [Worker-Main-8/INFO]: Preparing spawn area: 73%
+[14:22:25] [Worker-Main-6/INFO]: Preparing spawn area: 74%
+[14:22:26] [Worker-Main-14/INFO]: Preparing spawn area: 75%
+[14:22:26] [Worker-Main-8/INFO]: Preparing spawn area: 77%
+[14:22:27] [Worker-Main-6/INFO]: Preparing spawn area: 78%
+[14:22:27] [Worker-Main-14/INFO]: Preparing spawn area: 79%
+[14:22:28] [Worker-Main-14/INFO]: Preparing spawn area: 81%
+[14:22:29] [Worker-Main-8/INFO]: Preparing spawn area: 82%
+[14:22:29] [Worker-Main-7/INFO]: Preparing spawn area: 83%
+[14:22:29] [Worker-Main-6/INFO]: Preparing spawn area: 84%
+[14:22:30] [Worker-Main-8/INFO]: Preparing spawn area: 85%
+[14:22:30] [Worker-Main-8/INFO]: Preparing spawn area: 86%
+[14:22:31] [Worker-Main-7/INFO]: Preparing spawn area: 87%
+[14:22:31] [Worker-Main-6/INFO]: Preparing spawn area: 88%
+[14:22:32] [Worker-Main-10/INFO]: Preparing spawn area: 89%
+[14:22:32] [Worker-Main-7/INFO]: Preparing spawn area: 90%
+[14:22:35] [Worker-Main-7/INFO]: Preparing spawn area: 91%
+[14:22:35] [Worker-Main-14/INFO]: Preparing spawn area: 91%
+[14:22:35] [Worker-Main-7/INFO]: Preparing spawn area: 91%
+[14:22:35] [Worker-Main-7/INFO]: Preparing spawn area: 91%
+[14:22:35] [Worker-Main-7/INFO]: Preparing spawn area: 91%
+[14:22:35] [Worker-Main-14/INFO]: Preparing spawn area: 99%
+[14:22:35] [Server thread/INFO]: Time elapsed: 66256 ms
+[14:22:35] [Server thread/INFO]: Done (76.587s)! For help, type "help"
+[14:27:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2863ms or 57 ticks behind
+[14:27:56] [Server thread/INFO]: AndresRRC[/25.10.61.146:54163] logged in with entity id 324 at (-120.5, 87.0, -245.5)
+[14:27:56] [Server thread/INFO]: AndresRRC joined the game
+[14:29:49] [Server thread/INFO]: AndresRRC has made the advancement [Stone Age]
+[14:30:39] [Server thread/INFO]: AndresRRC has made the advancement [Getting an Upgrade]
+[14:32:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2699ms or 53 ticks behind
+[14:34:29] [Server thread/INFO]: AndresRRC has made the advancement [Sweet Dreams]
+[14:37:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5041ms or 100 ticks behind
+[14:41:43] [Server thread/INFO]: AndresRRC has made the advancement [Acquire Hardware]
+[14:41:59] [Server thread/INFO]: AndresRRC has made the advancement [Isn't It Iron Pick]
+[14:42:40] [Server thread/INFO]: AndresRRC has made the advancement [Suit Up]
+[14:42:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3277ms or 65 ticks behind
+[14:43:44] [Server thread/INFO]: AndresRRC has made the advancement [Not Today, Thank You]
+[14:43:51] [Server thread/INFO]: AndresRRC has made the advancement [Monster Hunter]
+[14:47:56] [Server thread/WARN]: AndresRRC moved too quickly! 9.588077440297724,2.0013359791121417,-3.1527302897970912
+[14:47:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6663ms or 133 ticks behind
+[14:52:59] [Server thread/WARN]: AndresRRC moved too quickly! -1.3019857585534282,0.0625,-9.986164309305877
+[14:52:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3566ms or 71 ticks behind
+[14:56:05] [Server thread/INFO]: jsduquema[/25.0.89.220:51532] logged in with entity id 6362 at (-109.5, 83.0, -260.5)
+[14:56:05] [Server thread/INFO]: jsduquema joined the game
+[14:57:29] [Server thread/INFO]: [AndresRRC: Set the time to 1000]
+[14:58:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5704ms or 114 ticks behind
+[14:58:16] [Server thread/INFO]: AndresRRC has made the advancement [Ice Bucket Challenge]
+[14:58:22] [Server thread/INFO]: <jsduquema> hola
+[14:58:25] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-104, y=87, z=-263}
+[14:58:30] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-106, y=85, z=-263}
+[14:58:30] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-106, y=85, z=-262}
+[14:58:30] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-106, y=84, z=-260}
+[14:58:31] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-106, y=85, z=-260}
+[14:58:53] [Server thread/INFO]: <AndresRRC> holi
+[14:58:56] [Server thread/INFO]: <AndresRRC> o/
+[14:59:00] [Server thread/INFO]: <jsduquema> como vas
+[14:59:07] [Server thread/INFO]: <AndresRRC> bien mi amor y ru
+[14:59:12] [Server thread/INFO]: <jsduquema> oye que paso con el server :c
+[14:59:26] [Server thread/INFO]: <AndresRRC> me hakiaron o_O
+[15:00:36] [Server thread/INFO]: <jsduquema> comoasi
+[15:01:03] [Server thread/INFO]: jsduquema has made the advancement [Stone Age]
+[15:01:11] [Server thread/INFO]: jsduquema has made the advancement [Getting an Upgrade]
+[15:01:22] [Server thread/INFO]: <AndresRRC> pasito a pasito}
+[15:02:27] [Server thread/INFO]: [AndresRRC: Teleported AndresRRC to jsduquema]
+[15:02:38] [Server thread/INFO]: <jsduquema> osea lo que habia antes f?
+[15:02:43] [Server thread/INFO]: <AndresRRC> no jeje
+[15:02:55] [Server thread/INFO]: <AndresRRC> tenemos un backup tu tranqui
+[15:03:04] [Server thread/INFO]: <jsduquema> no entiendo jaja
+[15:03:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3348ms or 66 ticks behind
+[15:03:09] [Server thread/INFO]: <AndresRRC> muack
+[15:04:39] [Server thread/INFO]: <jsduquema> ahora cual es la gracia? jaja o que
+[15:04:48] [Server thread/INFO]: <AndresRRC> pvp
+[15:05:08] [Server thread/INFO]: <AndresRRC> ready
+[15:08:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5758ms or 115 ticks behind
+[15:08:29] [Server thread/INFO]: [AndresRRC: Teleported AndresRRC to jsduquema]
+[15:10:05] [Server thread/INFO]: [AndresRRC: Set the time to 1000]
+[15:10:28] [Server thread/INFO]: <AndresRRC> a donde vas?Wa}}
+[15:10:29] [Server thread/INFO]: AndresRRC was blown up by Creeper
+[15:10:45] [Server thread/INFO]: [AndresRRC: Teleported AndresRRC to jsduquema]
+[15:10:47] [Server thread/INFO]: jsduquema has made the advancement [Ice Bucket Challenge]
+[15:11:18] [Server thread/INFO]: <AndresRRC> grashas
+[15:13:19] [Server thread/WARN]: jsduquema moved too quickly! -5.551160832680921,-7.0,4.6577066676157415
+[15:13:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5165ms or 103 ticks behind
+[15:15:03] [Server thread/INFO]: jsduquema has made the advancement [Acquire Hardware]
+[15:16:46] [Server thread/INFO]: AndresRRC lost connection: Disconnected
+[15:16:46] [Server thread/INFO]: AndresRRC left the game
+[15:18:25] [Server thread/WARN]: jsduquema moved too quickly! -7.7829238253482345,0.7607407249357578,6.379329357874803
+[15:18:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6173ms or 123 ticks behind
+[15:20:25] [Server thread/INFO]: jsduquema has made the advancement [Sweet Dreams]
+[15:23:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3101ms or 62 ticks behind
+[15:24:29] [Server thread/INFO]: jsduquema has made the advancement [Isn't It Iron Pick]
+[15:25:14] [Server thread/INFO]: jsduquema has made the advancement [Not Today, Thank You]
+[15:25:23] [Server thread/INFO]: jsduquema has made the advancement [Monster Hunter]
+[15:28:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3439ms or 68 ticks behind
+[15:30:56] [Server thread/INFO]: jsduquema has made the advancement [Suit Up]
+[15:32:52] [Server thread/INFO]: oruat[/25.10.61.146:54639] logged in with entity id 14778 at (-119.5, 82.0, -255.5)
+[15:32:52] [Server thread/INFO]: oruat joined the game
+[15:33:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3711ms or 74 ticks behind
+[15:34:28] [Server thread/INFO]: Stopping the server
+[15:34:28] [Server thread/INFO]: Stopping server
+[15:34:28] [Server thread/INFO]: Saving players
+[15:34:28] [Server thread/INFO]: jsduquema lost connection: Internal Exception: java.lang.StackOverflowError
+[15:34:28] [Server thread/INFO]: jsduquema left the game
+[15:34:28] [Server thread/INFO]: Saving worlds
+[15:34:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:34:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:34:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15:34:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:34:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15:34:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:34:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:34:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:34:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
